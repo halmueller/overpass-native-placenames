@@ -4,6 +4,8 @@ Python scripts that query [OpenStreetMap](https://www.openstreetmap.org) via the
 
 No external dependencies — standard library only.
 
+Inspired by a question in the MapTime Seattle Slack by Karthik Malli.
+
 ## Quick start
 
 ```sh
