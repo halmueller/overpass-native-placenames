@@ -4,7 +4,7 @@ Python scripts that query [OpenStreetMap](https://www.openstreetmap.org) via the
 
 No external dependencies — standard library only.
 
-Inspired by a question in the MapTime Seattle Slack by Karthik Malli.
+Inspired by a question in the MapTime Seattle Slack by Karthik Malli. 23 minutes elapsed time from initial `mkdir` to complete scripts and dataset. 
 
 ## Quick start
 
