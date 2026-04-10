@@ -1,0 +1,2948 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-10T04:41:12Z",
+    "timestamp_areas_base": "2026-04-09T19:42:47Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 356542447,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "baptist",
+        "ele": "121",
+        "gnis:feature_id": "1513426",
+        "name": "Iglesia Bautista de Riverview",
+        "name:en": "Riverview Baptist Church",
+        "religion": "christian",
+        "service_times": "Su 10:00,17:00; We 19:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356546426,
+      "tags": {
+        "alt_name": "q̓əlbc̓",
+        "ele": "1254",
+        "gnis:feature_id": "1525731",
+        "name": "Mount Si / q̓əlbc̓",
+        "name:en": "Mount Si",
+        "name:lut": "q̓əlbc̓",
+        "natural": "peak",
+        "source": "USGS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388779734,
+      "tags": {
+        "closest_town": "Bellevue, Washington",
+        "disused:aeroway": "aerodrome",
+        "ele": "9",
+        "name": "Bellevue Airfield (historical)",
+        "name:en": "Bellevue Airfield",
+        "source": "wikipedia",
+        "type": "defunct",
+        "wikidata": "Q1657446",
+        "wikipedia": "en:Bellevue Airfield"
+      }
+    },
+    {
+      "type": "node",
+      "id": 440839210,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "4509",
+        "addr:postcode": "98116",
+        "addr:state": "WA",
+        "addr:street": "California Avenue Southwest",
+        "amenity": "restaurant",
+        "check_date": "2025-12-17",
+        "cuisine": "vietnamese",
+        "name": "Bonjour Việt Nam",
+        "name:en": "Bonjour Vietnam",
+        "website": "https://bonjourvietnam.us"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738808296,
+      "tags": {
+        "addr:city": "Bellevue",
+        "addr:housenumber": "2636",
+        "addr:postcode": "98004",
+        "addr:street": "Bellevue Way Northeast",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "name:en": "Quality Food Center",
+        "opening_hours": "24/7",
+        "operator": "Kroger",
+        "phone": "+1-425-822-4154",
+        "shop": "supermarket",
+        "website": "https://qfc.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1783034123,
+      "tags": {
+        "name": "Tour Click 투어클릭",
+        "name:en": "Tour Click",
+        "name:ko": "투어클릭",
+        "old_name": "La Palmita Tienda Mexicana",
+        "old_name:es": "La Palmita Tienda Mexicana",
+        "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2350548423,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2200",
+        "addr:postcode": "98134",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue South",
+        "name": "Glowforge, Inc.",
+        "name:en": "Glowforge",
+        "office": "company",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://glowforge.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2463987602,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:country": "US",
+        "addr:housenumber": "2304",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 89th Street",
+        "brand": "QuickBooks;Quicken",
+        "check_date:opening_hours": "2024-07-13",
+        "email": "abt@scn.org",
+        "it:sales": "consulting",
+        "it:type": "accounting",
+        "name": "Dr. Quick Books, Inc.",
+        "name:en": "Dr. QuickBooks & Quicken",
+        "office": "it",
+        "opening_hours:signed": "no",
+        "phone": "+1-206-789-8328",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://www.drqckbks.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3211770315,
+      "tags": {
+        "artist_name": "Lawrence Beck",
+        "artwork_type": "sculpture",
+        "date": "1976",
+        "description": "The sculpture is an innukshuk an Eskimo word for an object with sculptural presence. Inspired by Alaskan Eskimo and Indian art, the artist's intent was to combine these forms with a contemporary twist i.e., the steel fabrication and hansa yellow paint.",
+        "location": "Golden Gardens Park",
+        "measurements": "144x96x216",
+        "media": "Welded steel; enamel",
+        "name": "Atala Kivliktwok Okitun Dukik",
+        "name:en": "The Golden Money Moon",
+        "name:ypk": "Atala Kivliktwok Okitun Dukik",
+        "project": "GOLDEN GARDENS PROJECT",
+        "sac_id": "CL77.043",
+        "tourism": "artwork",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3231711966,
+      "tags": {
+        "addr:city": "Kirkland",
+        "addr:housenumber": "9712",
+        "addr:postcode": "98034",
+        "addr:state": "WA",
+        "addr:street": "Northeast 119th Way",
+        "amenity": "cafe",
+        "brand": "Ding Tea",
+        "brand:wikidata": "Q112123475",
+        "contact:yelp": "https://yelp.com/biz/ding-tea-kirkland-kirkland",
+        "cuisine": "bubble_tea",
+        "name": "Ding Tea+ & 36th Streets Vietnamese Coffee",
+        "name:en": "Ding Tea",
+        "name:zh": "薡茶",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+1-425-628-6966",
+        "takeaway": "yes",
+        "website:menu": "https://order.store/store/ding-tea+-and-36-streets-vietnamese-coffee/Ve5IGX8ZWZaIwxmh7DSXxQ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3377381987,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "vietnamese;pho",
+        "name": "Phở Orchard",
+        "name:en": "Pho Orchard"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3721662321,
+      "tags": {
+        "name": "Central Nails & Spa",
+        "name:en": "Monarchy Nails & Spa",
+        "opening_hours": "Mo-Sa 09:30-19:00; Su 11:00-18:00",
+        "phone": "+1-253-850-3169",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4282319268,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Arco",
+        "brand:wikidata": "Q304769",
+        "name": "Arco",
+        "name:en": "ARCO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4282319781,
+      "tags": {
+        "brand": "John L. Scott",
+        "brand:wikidata": "Q6243687",
+        "check_date": "2025-05-11",
+        "name": "John L. Scott",
+        "name:en": "John L. Scott Real Estate",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4309883689,
+      "tags": {
+        "addr:state": "WA",
+        "addr:unit": "106",
+        "brand": "QFC",
+        "brand:wikidata": "Q7265425",
+        "name": "QFC",
+        "name:en": "Quality Food Center",
+        "opening_hours": "24/7",
+        "phone": "+1-425-821-4885",
+        "shop": "supermarket",
+        "source": "local knowledge",
+        "website": "https://qfc.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4376702993,
+      "tags": {
+        "brand": "U-Haul",
+        "brand:wikidata": "Q7862902",
+        "name": "U-Haul",
+        "name:en": "U-Haul Neighborhood Dealer",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-15:00",
+        "shop": "rental"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4377499029,
+      "tags": {
+        "addr:housenumber": "22621",
+        "addr:postcode": "98021",
+        "addr:street": "Bothell-Everett Highway",
+        "air_conditioning": "yes",
+        "alt_name": "PCC",
+        "branch": "Bothell",
+        "brand": "PCC Community Markets",
+        "brand:wikidata": "Q7118517",
+        "check_date": "2025-12-12",
+        "name": "PCC Community Market",
+        "name:en": "PCC Natural Market",
+        "opening_hours": "06:00-23:00",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-425-492-0122",
+        "shop": "supermarket",
+        "website": "https://www.pccmarkets.com/stores/bothell/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379348191,
+      "tags": {
+        "alt_name": "MetroPCS",
+        "brand": "Metro by T-Mobile",
+        "brand:wikidata": "Q1925685",
+        "name": "Metro by T-Mobile",
+        "name:en": "Metro PCS",
+        "shop": "mobile_phone",
+        "website": "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-kent-wa-10292456/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4379946792,
+      "tags": {
+        "addr:city": "Kent",
+        "addr:housenumber": "19215",
+        "addr:postcode": "98032",
+        "addr:state": "WA",
+        "addr:street": "66th Avenue South",
+        "name": "Macrina Bakery - Kent",
+        "name:en": "Macrina Bakery",
+        "opening_hours": "Mo-Fr 07:00-14:00",
+        "phone": "+1-253-395-8017",
+        "shop": "bakery",
+        "website": "https://macrinabakery.com/kent-cafe.php"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4381346404,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Jamestown",
+        "name:en": "Cedar Stump"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4388510589,
+      "tags": {
+        "check_date": "2025-03-18",
+        "name": "Rocha Salon",
+        "name:en": "Facelook Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4391312089,
+      "tags": {
+        "addr:city": "Gig Harbor",
+        "addr:housenumber": "11330",
+        "addr:postcode": "98332",
+        "addr:state": "WA",
+        "addr:street": "51st Avenue",
+        "amenity": "cafe",
+        "branch": "Albertsons Gig Harbor 406",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "name:en": "Starbucks Coffee",
+        "official_name": "Starbucks Coffee",
+        "phone": "+1-253-853-4750",
+        "ref": "11356",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/11356/albertsons-gig-harbor-406-11330-51st-ave-nw-gig-harbor-wa-983327890-us"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4403618589,
+      "tags": {
+        "check_date": "2025-03-18",
+        "name": "Bettlesmith's Valley Auto Service",
+        "name:en": "Bettlesmith's Valley Auto",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4425652694,
+      "tags": {
+        "amenity": "community_centre",
+        "name": "Duwamish River Community Hub",
+        "name:en": "Napoli Pizzeria Ristorante"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4425652695,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Honor Mexico",
+        "name:en": "Jalisco",
+        "opening_hours": "Mo-Su 11:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4425658392,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "mexican",
+        "name": "Ambakity",
+        "name:en": "May Macho"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4427131696,
+      "tags": {
+        "addr:city": "South Hill",
+        "addr:housenumber": "5612",
+        "addr:postcode": "98375",
+        "addr:state": "WA",
+        "addr:street": "176th Street East",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "internet_access": "wlan",
+        "name": "Farrelli's Pizza - Frederickson",
+        "name:en": "Farrelli's Pizza",
+        "opening_hours": "Su-Th 10:30-00:00; Fr-Sa 10:30-02:00",
+        "phone": "+1-253-655-5191",
+        "website": "https://farrellispizza.com/locations/farrellis-frederickson-wa/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428554491,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "healthcare:speciality": "chiropractic",
+        "name": "Mountain Surf Chiropractic",
+        "name:en": "Market Street Chiropractic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4428565389,
+      "tags": {
+        "name": "Puget Sound Wood Windows",
+        "name:en": "Windows",
+        "shop": "furniture"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4458004089,
+      "tags": {
+        "amenity": "car_rental",
+        "brand": "Hertz",
+        "brand:wikidata": "Q1543874",
+        "name": "Hertz",
+        "name:en": "Hertz Car Rental"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4458653289,
+      "tags": {
+        "addr:housenumber": "5963",
+        "addr:street": "Corson Avenue South",
+        "addr:unit": "176",
+        "amenity": "post_office",
+        "brand": "FedEx Office",
+        "brand:wikidata": "Q474379",
+        "check_date": "2024-11-25",
+        "name": "FedEx Office",
+        "name:en": "FedEx Office Print and Ship",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4461363924,
+      "tags": {
+        "addr:city": "Maple Valley",
+        "addr:housenumber": "26710",
+        "addr:postcode": "98038",
+        "addr:state": "WA",
+        "addr:street": "Maple Valley-Black Diamond Road Southeast",
+        "beauty": "tanning",
+        "check_date": "2024-10-07",
+        "name": "Seattle Sun Tan",
+        "name:en": "F400",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4461364340,
+      "tags": {
+        "addr:city": "Maple Valley",
+        "addr:door": "B",
+        "addr:housenumber": "27203",
+        "addr:postcode": "98038",
+        "addr:state": "WA",
+        "addr:street": "216th Avenue Southeast",
+        "amenity": "dentist",
+        "check_date": "2025-08-08",
+        "healthcare": "dentist",
+        "name": "Doctor Jolley Family Dentistry",
+        "name:en": "Doctor Jollee Family Dentistry",
+        "opening_hours": "Mo 08:00-18:00; Tu-Th 07:00-17:00; Fr 07:00-13:00",
+        "phone": "+1-425-432-1232"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4548869165,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "837",
+        "addr:postcode": "98103",
+        "addr:state": "WA",
+        "addr:street": "North 34th Street",
+        "email": "hqvisits@geocaching.com",
+        "name": "Geocaching HQ",
+        "name:de": "Geocaching Hauptquartier",
+        "name:en": "Geocaching Headquarters",
+        "operator": "Groundspeak",
+        "shop": "outdoor",
+        "website": "https://geocachinghq.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554359491,
+      "tags": {
+        "addr:city": "Tukwila",
+        "addr:housenumber": "331",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "Tukwila Parkway",
+        "alt_name": "Trek Bicycle Store",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "name:en": "Trek Bicycles",
+        "opening_hours": "Tu-Sa 10:00-18:00; Su 12:00-17:00; Mo off",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4554422489,
+      "tags": {
+        "addr:city": "Tukwila",
+        "addr:housenumber": "339",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "Tukwila Parkway",
+        "brand": "Benjamin Moore",
+        "brand:wikidata": "Q4889038",
+        "name": "Benjamin Moore",
+        "name:en": "Benjamin Moore Paints",
+        "shop": "paint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4556297990,
+      "tags": {
+        "amenity": "public_bookcase",
+        "brand": "Little Free Library",
+        "brand:wikidata": "Q6650101",
+        "check_date": "2023-08-21",
+        "name": "Little Free Library",
+        "name:en": "LittleFreeLibrary",
+        "ref": "13237"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4632359291,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Local",
+        "name:en": "Clubhouse Sports Bar & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4632361490,
+      "tags": {
+        "alt_name": "MetroPCS",
+        "brand": "Boost Mobile",
+        "brand:wikidata": "Q4943790",
+        "name": "Boost Mobile",
+        "name:en": "metroPCS",
+        "shop": "mobile_phone"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646505391,
+      "tags": {
+        "brand": "Marshalls",
+        "brand:wikidata": "Q15903261",
+        "name": "Marshalls",
+        "name:en": "Marshall's",
+        "shop": "department_store"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4646551590,
+      "tags": {
+        "addr:city": "Covington",
+        "addr:housenumber": "27339",
+        "addr:postcode": "98042",
+        "addr:state": "WA",
+        "addr:street": "Southeast Covington Way",
+        "brand": "HomeGoods",
+        "brand:wikidata": "Q5887941",
+        "name": "HomeGoods",
+        "name:en": "Homegoods",
+        "opening_hours": "Mo-Sa 09:30-21:30; Su 10:00-20:00",
+        "phone": "+1-253-630-1316",
+        "shop": "houseware"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4723410000,
+      "tags": {
+        "addr:city": "Port Orchard",
+        "addr:housenumber": "3311",
+        "addr:state": "WA",
+        "addr:street": "Southeast Lund Avenue",
+        "addr:unit": "9B",
+        "brand": "T-Mobile",
+        "brand:wikidata": "Q3511885",
+        "name": "T-Mobile",
+        "name:en": "Sprint",
+        "shop": "mobile_phone",
+        "website": "https://www.t-mobile.com/stores/bd/t-mobile-port-orchard-wa-98366-2dsi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4778167249,
+      "tags": {
+        "addr:housenumber": "1010",
+        "addr:street": "State Avenue",
+        "amenity": "post_office",
+        "brand": "United States Post Office",
+        "brand:wikidata": "Q668687",
+        "name": "United States Post Office",
+        "name:en": "United States Postal Service",
+        "operator": "United States Postal Service",
+        "operator:short": "USPS",
+        "operator:type": "public",
+        "operator:website": "https://www.usps.com",
+        "operator:wikidata": "Q668687",
+        "operator:wikipedia": "en:United States Postal Service",
+        "short_name": "USPS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4778231909,
+      "tags": {
+        "addr:city": "Renton",
+        "addr:housenumber": "17629",
+        "addr:postcode": "98055",
+        "addr:state": "WA",
+        "addr:street": "108th Avenue Southeast",
+        "amenity": "fast_food",
+        "brand": "TKK Fried Chicken",
+        "brand:en": "TKK Fried Chicken",
+        "brand:wikidata": "Q15715284",
+        "brand:zh": "頂呱呱",
+        "check_date": "2024-10-15",
+        "cuisine": "chicken",
+        "name": "TKK Fried Chicken Express",
+        "name:en": "TKK Fried Chicken",
+        "name:zh": "頂呱呱",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4802609121,
+      "tags": {
+        "addr:city": "Kent",
+        "addr:housenumber": "25616",
+        "addr:postcode": "98030",
+        "addr:state": "WA",
+        "addr:street": "102nd Place Southeast",
+        "alt_name": "Ezell's Famous Chicken",
+        "amenity": "fast_food",
+        "brand": "Ezell's Chicken",
+        "brand:wikidata": "Q5423177",
+        "cuisine": "chicken",
+        "name": "Ezell's Chicken",
+        "name:en": "Ezell's Famous Chicken",
+        "opening_hours": "Su-Th 10:30-21:00; Fr-Sa 10:30-23:00",
+        "phone": "+1-253-854-4535",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4848599921,
+      "tags": {
+        "addr:housenumber": "20920",
+        "addr:postcode": "98031",
+        "addr:state": "WA",
+        "addr:street": "108th Avenue Southeast",
+        "amenity": "veterinary",
+        "name": "Afford-A-Vet Animal Clinic",
+        "name:en": "Afford-A-Vet",
+        "phone": "+1-253-859-8387",
+        "website": "http://affordavetac.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4939197353,
+      "tags": {
+        "addr:housenumber": "7802",
+        "addr:postcode": "98266",
+        "addr:street": "Silver Lake Road",
+        "check_date": "2025-04-06",
+        "contact:facebook": "crossroadsgrocery",
+        "email": "crossroadsgrocery@gmail.com",
+        "name": "Der Storehausen",
+        "name:en": "Crossroads Grocery",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-360-599-9657",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4977858088,
+      "tags": {
+        "amenity": "drinking_water",
+        "name": "164th Street Artesian Well",
+        "name:en": "Lynnwood Artesian Well"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4981284421,
+      "tags": {
+        "addr:city": "Covington",
+        "addr:housenumber": "17023",
+        "addr:postcode": "98042",
+        "addr:state": "WA",
+        "addr:street": "Southeast 272nd Street",
+        "amenity": "pharmacy",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "healthcare": "pharmacy",
+        "name": "Safeway",
+        "name:en": "Safeway Pharmacy",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 11:00-18:00",
+        "website": "https://local.pharmacy.safeway.com/safeway/wa/covington/17023-se-272nd.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4987102221,
+      "tags": {
+        "addr:city": "Sedro-Woolley",
+        "addr:housenumber": "6412",
+        "addr:street": "State Route 9",
+        "name": "Thompsons Greenhouse",
+        "name:en": "Thompsons",
+        "shop": "garden_centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4987458126,
+      "tags": {
+        "name": "Stuart Island Teacherage Museum",
+        "name:en": "teacherage museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5043259724,
+      "tags": {
+        "name": "The Hockey Store",
+        "name:en": "The Hockey Shop",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046872721,
+      "tags": {
+        "amenity": "fuel",
+        "name": "Comdata CFN",
+        "name:en": "Throp Fuel",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046899227,
+      "tags": {
+        "check_date": "2023-10-01",
+        "name": "Harvest Collision",
+        "name:en": "Greenway Auto Body",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046904821,
+      "tags": {
+        "brand": "claire's",
+        "brand:wikidata": "Q2974996",
+        "check_date": "2023-09-30",
+        "name": "claire's",
+        "name:en": "McDonald's",
+        "opening_hours": "12:00-19:00",
+        "shop": "fashion_accessories",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046927324,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Chevron",
+        "brand:wikidata": "Q319642",
+        "name": "Chevron",
+        "name:en": "Shell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5046928721,
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Arco",
+        "brand:wikidata": "Q304769",
+        "name": "Arco",
+        "name:en": "ARCO"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5047006427,
+      "tags": {
+        "alt_name": "Sally Beauty Supply",
+        "brand": "Sally Beauty",
+        "brand:wikidata": "Q7405065",
+        "name": "Sally Beauty",
+        "name:en": "Sally Beauty Supply",
+        "shop": "hairdresser_supply"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5047015322,
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Papa Murphy's",
+        "brand:wikidata": "Q7132349",
+        "cuisine": "pizza",
+        "name": "Papa Murphy's",
+        "name:en": "Papa Murphy's Pizza",
+        "official_name": "Papa Murphy's Take 'N' Bake Pizza",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5047018233,
+      "tags": {
+        "brand": "Cricket Wireless",
+        "brand:wikidata": "Q5184987",
+        "name": "Cricket Wireless",
+        "name:en": "Cricket",
+        "shop": "mobile_phone",
+        "short_name": "Cricket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5047018237,
+      "tags": {
+        "brand": "Moneytree",
+        "brand:wikidata": "Q6899361",
+        "name": "Moneytree",
+        "name:en": "Money Tree",
+        "shop": "money_lender"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073600122,
+      "tags": {
+        "name": "Gosiger",
+        "name:en": "Goisger",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5078194794,
+      "tags": {
+        "brand": "U-Haul",
+        "brand:wikidata": "Q7862902",
+        "name": "U-Haul",
+        "name:en": "U-Haul Neighborhood Dealer",
+        "shop": "rental"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5080134330,
+      "tags": {
+        "name": "Windermere Corp",
+        "name:en": "Foss",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5088944525,
+      "tags": {
+        "check_date": "2025-07-26",
+        "name": "IGreen",
+        "name:en": "Well Spring",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5474381525,
+      "tags": {
+        "name": "Reinhart Electric &",
+        "name:en": "Reinhart Electric & Service",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5614668022,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2025-07-12",
+        "cuisine": "indian",
+        "name": "Aahaar",
+        "name:en": "Aahaar Indian Restaurant",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5614668025,
+      "tags": {
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Peak Sports & Spine",
+        "name:en": "Peak Sports & Spine Physical Therapy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5614677225,
+      "tags": {
+        "check_date": "2023-06-11",
+        "name": "Earthlight Gems & Minerals",
+        "name:en": "Earthlight",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5680708521,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "3338",
+        "addr:postcode": "98115",
+        "addr:street": "Northeast 65th Street",
+        "amenity": "restaurant",
+        "check_date": "2026-03-10",
+        "indoor_seating": "yes",
+        "name": "Fogrose",
+        "name:en": "Ridge Pizza",
+        "opening_hours": "Mo-Fr 15:00-22:00; Sa,Su 11:30-22:00",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5741830121,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "mexican",
+        "name": "Blue",
+        "name:en": "Blue Water Taco Grill",
+        "opening_hours": "Mo-Fr 07:00-15:30",
+        "phone": "+1-206-805-2060",
+        "website": "https://www.bluewatertacogrill.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5897951885,
+      "tags": {
+        "addr:housenumber": "215",
+        "addr:postcode": "98290",
+        "addr:street": "Cypress Avenue",
+        "amenity": "restaurant",
+        "name": "Collectors Choice",
+        "name:en": "Collector's Choice Restaurant",
+        "opening_hours": "Su-Th 07:00-01:00; Fr-Sa 07:00-18:00",
+        "phone": "+1-360-568-1277",
+        "website": "https://www.ccrsnohomish.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6003759987,
+      "tags": {
+        "addr:city": "Everett",
+        "addr:housenumber": "1325",
+        "addr:postcode": "98208-2808",
+        "addr:state": "WA",
+        "addr:street": "Southeast Everett Mall Way",
+        "addr:unit": "B",
+        "brand": "Michaels",
+        "brand:wikidata": "Q6835667",
+        "name": "Michaels",
+        "name:en": "Michael's",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-19:00",
+        "phone": "+1-425-267-9088",
+        "ref": "9810",
+        "shop": "craft",
+        "website": "https://locations.michaels.com/wa/everett/9810"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6003759993,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Babalon",
+        "name:en": "Babylon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6019612158,
+      "tags": {
+        "addr:city": "Kent",
+        "addr:housenumber": "21000",
+        "addr:postcode": "98031",
+        "addr:state": "WA",
+        "addr:street": "108th Avenue Southeast",
+        "amenity": "restaurant",
+        "name": "Maza",
+        "name:en": "Maza Grill",
+        "phone": "+1-253-277-2566"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6101429785,
+      "tags": {
+        "name": "Cascadia",
+        "name:en": "Cascadia Metals",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6125608240,
+      "tags": {
+        "addr:city": "Kent",
+        "addr:housenumber": "8467",
+        "addr:postcode": "98031",
+        "addr:street": "South 208th Street",
+        "name": "Long Road Transportation LLC",
+        "name:en": "Long Road Transportation",
+        "website": "https://longroad.one"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6136939097,
+      "tags": {
+        "addr:city": "Tukwila",
+        "addr:housenumber": "17500",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "Southcenter Parkway",
+        "alt_name": "Burlington Coat Factory",
+        "brand": "Burlington",
+        "brand:wikidata": "Q4999220",
+        "check_date": "2023-11-27",
+        "name": "Burlington",
+        "name:en": "Burlington Coat Factory",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "phone": "+1-206-575-6392",
+        "ref": "1005",
+        "shop": "department_store",
+        "toilets": "no",
+        "website": "https://stores.burlington.com/wa/tukwila/1005",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6225452686,
+      "tags": {
+        "addr:housenumber": "2302",
+        "addr:street": "Broadway",
+        "alt_name": "ReStore",
+        "brand": "Habitat for Humanity ReStore",
+        "brand:wikidata": "Q108414596",
+        "check_date": "2024-05-18",
+        "email": "store@habitatsnohomish.org",
+        "name": "Habitat for Humanity ReStore",
+        "name:en": "Habitat for Humanity ReStore - Snohomish County",
+        "phone": "+1-425-354-3343",
+        "second_hand": "yes",
+        "shop": "charity",
+        "short_name": "Habitat ReStore",
+        "website": "https://habitatsnohomish.org/our-stores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6268283788,
+      "tags": {
+        "name": "Michael Zillen",
+        "name:en": "Michael Zillen Accounting",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6268340987,
+      "tags": {
+        "addr:city": "Bothell",
+        "addr:housenumber": "24032",
+        "addr:state": "WA",
+        "addr:street": "Bothell-Everett Highway",
+        "addr:unit": "300",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Hydrabad",
+        "name:en": "Hyderabad House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6334443987,
+      "tags": {
+        "check_date": "2025-07-14",
+        "name": "Seattle Print Hou",
+        "name:en": "Seattle Print House",
+        "shop": "copyshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6383905118,
+      "tags": {
+        "addr:city": "Pasco",
+        "addr:housenumber": "1307",
+        "addr:postcode": "99301",
+        "addr:state": "WA",
+        "addr:street": "Court Street",
+        "amenity": "social_facility",
+        "name": "La Vina Grupo",
+        "name:en": "Alcoholics Anonymous",
+        "name:es": "La Vina Grupo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6429711885,
+      "tags": {
+        "historic": "monument",
+        "name": "North Cascading",
+        "name:en": "North Cascades National Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6502428606,
+      "tags": {
+        "addr:housenumber": "1015",
+        "addr:street": "Robert Bush Drive",
+        "amenity": "cafe",
+        "name": "Elixir Espresso and Tea",
+        "name:en": "Elixir Coffee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6654415985,
+      "tags": {
+        "name": "JELD-",
+        "name:en": "JELD-WEN Inc.",
+        "office": "company"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7141404685,
+      "tags": {
+        "name": "SeaTac Trucks &",
+        "name:en": "SeaTac Trucks & Auto Sales",
+        "shop": "car"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7555121987,
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:short": "VFW",
+        "brand:wikidata": "Q3556413",
+        "name": "VFW Post 2455",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "short_name": "VFW",
+        "social_centre:for": "veteran"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7674951260,
+      "tags": {
+        "name": "#20",
+        "name:en": "#20 Douglas Fir",
+        "natural": "stone",
+        "ref": "20",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7708869085,
+      "tags": {
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Family Dentistry at Hawks Pra",
+        "name:en": "Family Dentistry at Hawks Prairie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7711417941,
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:wikidata": "Q3556413",
+        "name": "VFW Post #5878",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "short_name": "VFW",
+        "social_centre:for": "veterans"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8326533417,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cemitas La Po",
+        "name:en": "Cemitas La Poblanita"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8846913520,
+      "tags": {
+        "addr:housenumber": "15710 Unit A",
+        "addr:postcode": "98008",
+        "addr:street": "Northeast 24th Street",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "internet_access": "wlan",
+        "name": "Efim Tulchinsky DDS",
+        "name:en": "Dr. Efim Tulchinsky, DDS",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "phone": "+1-425-865-0411",
+        "website": "http://efimtulchinskydds.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8986939617,
+      "tags": {
+        "addr:city": "Sammamish",
+        "addr:housenumber": "22830",
+        "addr:postcode": "98074",
+        "addr:street": "Northeast 8th Street",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "email": "info@vinason.net",
+        "name": "Vinason",
+        "name:en": "Vinason Pho & Grill",
+        "opening_hours": "Mo-Su 10:30-21:00",
+        "phone": "+1-425-636-8799",
+        "website": "https://vinason.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9630398117,
+      "tags": {
+        "healthcare": "blood_donation",
+        "internet_access": "wlan",
+        "name": "BioLife Plasma",
+        "name:en": "BioLife Plasma Services"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9668920317,
+      "tags": {
+        "addr:housenumber": "5009 ste h",
+        "addr:state": "WA",
+        "addr:street": "West Clearwater Avenue",
+        "name": "Wavelengths",
+        "name:en": "Wavelengths Salon",
+        "phone": "+1-509-405-0193",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9797231318,
+      "tags": {
+        "name": "The Landmark",
+        "name:en": "The Landmark Group",
+        "office": "estate_agent",
+        "opening_hours": "Sa 09:00-15:00; Su 10:00-16:00; Mo-Fr 09:00-17:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10783323805,
+      "tags": {
+        "addr:postcode": "98563",
+        "addr:street": "South Main Street",
+        "name": "Main St. Barbers",
+        "name:en": "Main St. Barbershop",
+        "phone": "+1-360-927-5835",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10844980109,
+      "tags": {
+        "addr:housenumber": "316",
+        "addr:postcode": "98563",
+        "addr:street": "South Main Street",
+        "name": "Total Image",
+        "name:en": "Total Image Salon",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10917022605,
+      "tags": {
+        "addr:housenumber": "2908",
+        "addr:street": "Wetmore Avenue",
+        "name": "Good Wolf",
+        "name:en": "Good Wolf Barbershop",
+        "shop": "hairdresser",
+        "website": "http://thegoodwolfbarber.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10917022805,
+      "tags": {
+        "addr:street": "Colby Avenue",
+        "amenity": "pub",
+        "check_date": "2024-03-30",
+        "cuisine": "irish",
+        "name": "The Irishman",
+        "name:en": "The Irishmen",
+        "opening_hours": "Mo-Th 15:00-02:00; Fr-Su 12:00-02:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11200406337,
+      "tags": {
+        "addr:housenumber": "2817",
+        "addr:postcode": "98310",
+        "addr:street": "Wheaton Way",
+        "amenity": "nightclub",
+        "name": "Eden",
+        "name:en": "Eden Nightclub & Lounge",
+        "opening_hours": "Th-Sa 20:00-02:00",
+        "phone": "+1-360-209-9227"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11223842237,
+      "tags": {
+        "addr:housenumber": "2485",
+        "addr:postcode": "98311",
+        "addr:street": "Northeast McWilliams Road",
+        "amenity": "bar",
+        "contact:facebook": "https://facebook.com/people/Rolling-Hills-Golf-Course",
+        "cuisine": "breakfast;burger;diner",
+        "email": "RollingHillsGolfCourse@comcast.net",
+        "name": "Putters",
+        "name:en": "Putters Restaurant and Lounge",
+        "opening_hours": "We-Fr 09:00-21:00; Sa-Su 07:30-21:00; Mo 14:00-20:00",
+        "phone": "+1-360-377-7077",
+        "website": "https://rollinghills-golfcourse.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11386045769,
+      "tags": {
+        "addr:housenumber": "710",
+        "addr:postcode": "99352",
+        "addr:state": "WA",
+        "addr:street": "The Parkway",
+        "amenity": "restaurant",
+        "name": "Frost Me Sweet Bistro & Bakery",
+        "name:en": "Frost Me Sweet Bakery & Bistro",
+        "opening_hours": "Mo-Th 10:00-19:30; Fr-Sa 10:00-20:30; Su 11:00-16:00",
+        "phone": "+1-509-420-4704",
+        "website": "https://www.frostmesweetbakeryandbistro.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11388329569,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:postcode": "99352",
+        "addr:state": "WA",
+        "addr:street": "Newton Street",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Milieu Coffeeworks LLC",
+        "name:en": "Milieu Coffeeworks",
+        "opening_hours": "Mo-Th 06:45-11:00; Fr-Su 06:45-18:00",
+        "phone": "+1-509-506-2097",
+        "website": "https://milieu.cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11474847569,
+      "tags": {
+        "addr:housenumber": "320",
+        "addr:postcode": "98550",
+        "addr:street": "Myrtle Street",
+        "amenity": "bar",
+        "contact:facebook": "https://facebook.com/people/The-Boxcar-Bar-Grill/100028843075037",
+        "cuisine": "american",
+        "name": "The Boxcar Bar",
+        "name:en": "The Boxcar Bar and Grill",
+        "opening_hours": "Mo-We 11:00-23:00; Th 11:00-00:00; Fr-Sa 11:00-02:00; Su 11:00-22:00",
+        "phone": "+1-360-533-1471",
+        "website": "https://boxcarbarandgrill.square.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11501336069,
+      "tags": {
+        "addr:postcode": "99206",
+        "amenity": "recycling",
+        "name": "Sunshine Disposal",
+        "name:en": "Sunshine Disposal & Recycling",
+        "recycling_type": "centre",
+        "website": "https://sunshinedisposal.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11578028769,
+      "tags": {
+        "addr:housenumber": "3941",
+        "addr:postcode": "99216",
+        "addr:state": "WA",
+        "addr:street": "North Sullivan Road",
+        "amenity": "recycling",
+        "name": "Clean Green",
+        "name:en": "Spokane County Solid Waste",
+        "recycling_type": "centre"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11759349569,
+      "tags": {
+        "archaeological_site": "petroglyph",
+        "historic": "archaeological_site",
+        "name": "Petroglyph",
+        "name:en": "Petroglyphs",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11767178469,
+      "tags": {
+        "addr:city": "North Bend",
+        "addr:housenumber": "226",
+        "addr:postcode": "98045",
+        "addr:street": "East North Bend Way",
+        "internet_access": "wlan",
+        "name": "Trail Youth Coffee",
+        "name:en": "Trail Youth Coffee Home",
+        "opening_hours": "Tu-Fr 11:00-17:00; Sa 09:00-16:00",
+        "shop": "coffee",
+        "website": "https://www.trailyouthcoffee.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11844536469,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:postcode": "99201",
+        "addr:street": "West Main Avenue",
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "name": "Hatch",
+        "name:en": "Hatch Beaker + Burr",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "website": "https://www.hatchbeakerburr.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11844548074,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:postcode": "99201",
+        "addr:street": "West Main Avenue",
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza",
+        "name": "Peace Pie Pizza",
+        "name:en": "Peace Pie Pizzeria",
+        "opening_hours": "Mo-Th 11:00-19:00; Fr-Sa 11:00-22:00",
+        "website": "https://peacepiepizzeria.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12208543808,
+      "tags": {
+        "name": "Quil Ceda Village / qʷəl'sidəʔ ʔalʔaltəd",
+        "name:en": "Quil Ceda Village",
+        "name:lut": "qʷəl'sidəʔ ʔalʔaltəd",
+        "place": "village",
+        "wikidata": "Q7271959",
+        "wikipedia": "en:Quil Ceda Village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12542738739,
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:wikidata": "Q3556413",
+        "name": "Richland VFW Post 7952",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "short_name": "VFW",
+        "social_centre:for": "veteran"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12614278155,
+      "tags": {
+        "information": "board",
+        "name": "Founding Purpose Statement of Donghaejeong 동해정(東海亭) 건립취지문",
+        "name:en": "Founding Purpose Statement of Donghaejeong",
+        "name:ko": "동해정(東海亭) 건립취지문",
+        "source": "https://www.seattlen.com/hot/43684",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13183337765,
+      "tags": {
+        "information": "board",
+        "name": "Founding Statement of Hanwoori Garden 한우리정원 건립취지문",
+        "name:en": "Founding Statement of Hanwoori Garden",
+        "name:ko": "한우리정원 건립취지문",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13305573738,
+      "tags": {
+        "board_type": "welcome_sign",
+        "information": "board",
+        "name": "Snoqualmie Tribe / sdukʷalbixʷ",
+        "name:en": "Snoqualmie Tribe",
+        "name:lut": "sdukʷalbixʷ",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5857112,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "John Mike Road - stáwəxn súɬ",
+        "name:clm": "stáwəxn súɬ",
+        "name:en": "John Mike Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "John Mike",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5857603,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Snowcaps Lane - ŋaqaʔéʔqʷ súɬ",
+        "name:clm": "ŋaqaʔéʔqʷ súɬ",
+        "name:en": "Snowcaps Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Snowcaps",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5857611,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Ns'Klallam Drive - nəχʷsƛ̕ay̕əm̕ súɬ",
+        "name:clm": "nəχʷsƛ̕ay̕əm̕ súɬ",
+        "name:en": "Ns'Klallam Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Ns Klallam",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5858327,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Kweynesen Road - k̕ʷə́yŋsən súɬ",
+        "name:clm": "k̕ʷə́yŋsən súɬ",
+        "name:en": "Kweynesen Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Kweynesen",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5858333,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Sea Wind Drive - ƛ̕ɬáɬc sčúŋ súɬ",
+        "name:clm": "ƛ̕ɬáɬc sčúŋ súɬ",
+        "name:en": "Sea Wind Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Sea Wind",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5858340,
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "West Railroad Avenue - lilút súɬ",
+        "name:clm": "lilút súɬ",
+        "name:en": "West Railroad Avenue",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Railroad",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5862266,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Mimwheeten Way - mímxʷtən súɬ",
+        "name:clm": "mímxʷtən súɬ",
+        "name:en": "Mimwheeten Way",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Mimwheeten",
+        "tiger:name_type": "Way",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5917914,
+      "tags": {
+        "highway": "residential",
+        "name": "Wencker Circle",
+        "name:en": "Duwamish Circle",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Wencker",
+        "tiger:name_type": "Cir",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37056442,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1000",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "4th Avenue",
+        "air_conditioning": "yes",
+        "alt_name": "Seattle Central Library",
+        "amenity": "library",
+        "branch": "Central Library",
+        "building": "yes",
+        "building:levels": "11",
+        "building:material": "mirror",
+        "contact:facebook": "SeattlePublicLibrary",
+        "contact:instagram": "seattlepubliclibrary",
+        "contact:twitter": "SPLBuzz",
+        "ele": "53",
+        "elevator": "yes",
+        "gnis:feature_id": "2461282",
+        "height": "60",
+        "image": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg",
+        "internet_access": "wlan",
+        "name": "The Seattle Public Library - Central Library",
+        "name:en": "Seattle Central Library",
+        "name:ko": "중앙 도서관",
+        "opening_hours": "Tu-Th 10:00-20:00; Fr-Mo 10:00-18:00",
+        "operator": "The Seattle Public Library",
+        "operator:short": "SPL",
+        "operator:type": "public",
+        "operator:wikidata": "Q7442157",
+        "operator:wikipedia": "en:Seattle Public Library",
+        "phone": "+1-206-386-4636",
+        "source": "King County GIS;data.seattle.gov;yahoo_wms;knowledge",
+        "start_date": "2004-05-23",
+        "tourism": "attraction",
+        "website": "https://www.spl.org/hours-and-locations/central-library",
+        "wheelchair": "yes",
+        "wikidata": "Q2531939",
+        "wikimedia_commons": "File:Seattle_(WA,_USA),_Seattle_Central_Library_--_2022_--_200930.jpg",
+        "wikipedia": "en:Seattle Central Library"
+      }
+    },
+    {
+      "type": "way",
+      "id": 140457598,
+      "tags": {
+        "addr:city": "Bothell",
+        "addr:housenumber": "24040",
+        "addr:postcode": "98021",
+        "addr:state": "WA",
+        "addr:street": "Bothell Everett Highway",
+        "brand": "Safeway",
+        "brand:wikidata": "Q1508234",
+        "building": "yes",
+        "designation": "Safeway 1864",
+        "name": "Safeway",
+        "name:en": "Safeway 1864",
+        "opening_hours": "Mo-Fr 05:00-01:00; Sa 05:00-01:00; Su 05:00-01:00",
+        "phone": "+1-425-482-2767",
+        "shop": "supermarket",
+        "website": "https://local.safeway.com/safeway/wa/bothell/24040-bothell-everett-hwy.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158817220,
+      "tags": {
+        "building": "yes",
+        "name": "Pottery Studio",
+        "name:en": "Stewart Park Clay Studio",
+        "source": "data.seattle.gov",
+        "website": "https://sewardparkart.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 217604432,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "226",
+        "addr:postcode": "98109",
+        "addr:state": "WA",
+        "addr:street": "7th Avenue North",
+        "branch": "Seattle Downtown/Seattle Center",
+        "brand": "Fairfield Inn & Suites",
+        "brand:wikidata": "Q5430314",
+        "building": "yes",
+        "building:levels": "7",
+        "internet_access": "wlan",
+        "name": "Fairfield Inn & Suites by Marriott Norman",
+        "name:en": "Fairfield Inn & Suites by Marriott",
+        "official_name": "Fairfield Inn & Suites by Marriott",
+        "phone": "+1-206-443-2012",
+        "ref": "SEAFC",
+        "source": "King County GIS;data.seattle.gov;https://blue.kingcounty.com/Assessor/eRealProperty/Dashboard.aspx?ParcelNbr=1991200940",
+        "start_date": "1997",
+        "tourism": "hotel",
+        "website": "https://www.marriott.com/seafc"
+      }
+    },
+    {
+      "type": "way",
+      "id": 223317003,
+      "tags": {
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "building": "retail",
+        "check_date": "2024-01-20",
+        "name": "Shell",
+        "name:en": "Food Mart",
+        "shop": "convenience",
+        "source": "data.seattle.gov"
+      }
+    },
+    {
+      "type": "way",
+      "id": 228334860,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "8825",
+        "addr:postcode": "98118",
+        "addr:state": "WA",
+        "addr:street": "Martin Luther King Junior Way South",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Vegetable Bin",
+        "name:en": "Polynesian Store & Deli",
+        "shop": "convenience",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "way",
+      "id": 228737978,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1651",
+        "addr:postcode": "98144",
+        "addr:state": "WA",
+        "addr:street": "South King Street",
+        "amenity": "place_of_worship",
+        "building": "temple",
+        "name": "Chùa Việt Nam",
+        "name:en": "Viet Nam Buddhist Temple",
+        "name:vi": "Chùa Việt Nam",
+        "religion": "buddhist",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "way",
+      "id": 231984609,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2236",
+        "addr:postcode": "98106",
+        "addr:state": "WA",
+        "addr:street": "Southwest Orchard Street",
+        "building": "yes",
+        "name": "Tổ Đình Việt Nam",
+        "name:en": "Vietnamese Cultural Center",
+        "name:vi": "Tổ Đình Việt Nam",
+        "office": "association",
+        "operator": "Tran Hung Dao Foundation",
+        "operator:type": "private_non_profit",
+        "source": "King County GIS;data.seattle.gov",
+        "website": "https://todinhvietnam.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258364692,
+      "tags": {
+        "addr:city": "Bellevue",
+        "addr:housenumber": "2649",
+        "addr:postcode": "98007",
+        "addr:state": "WA",
+        "addr:street": "148th Avenue Southeast",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "leisure": "fitness_centre",
+        "name": "Champions center",
+        "name:en": "Champions Center",
+        "website": "https://5stonescoffeeco.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260185882,
+      "tags": {
+        "addr:city": "Puyallup",
+        "addr:country": "US",
+        "addr:housenumber": "120",
+        "addr:postcode": "98371",
+        "addr:state": "WA",
+        "addr:street": "2nd Street Northeast",
+        "amenity": "social_centre",
+        "bar": "yes",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:short": "VFW",
+        "brand:wikidata": "Q3556413",
+        "building": "yes",
+        "check_date": "2024-12-14",
+        "name": "VFW Post 2224",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "phone": "+1-253-841-5650",
+        "short_name": "VFW",
+        "social_centre:for": "veteran",
+        "website": "https://vfw2224.org",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782622,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "15 mph",
+        "name": "Spokwes Drive - sxʷp̕úqʷs súɬ",
+        "name:clm": "sxʷp̕úqʷs súɬ",
+        "name:en": "Spokwes Drive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782623,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Ashas Court - ʔəšás súɬ",
+        "name:clm": "ʔəšás súɬ",
+        "name:en": "Ashas Court"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782625,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Pew Lane - píxʷ súɬ",
+        "name:clm": "píxʷ súɬ",
+        "name:en": "Pew Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782627,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Killer Whale Lane - q̕ɬúməčən súɬ",
+        "name:clm": "q̕ɬúməčən súɬ",
+        "name:en": "Killer Whale Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782628,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Lilu Lane - ʔəlíluʔ súɬ",
+        "name:clm": "ʔəlíluʔ súɬ",
+        "name:en": "Lilu Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315254043,
+      "tags": {
+        "addr:city": "Auburn",
+        "addr:housenumber": "401",
+        "addr:postcode": "98001",
+        "addr:state": "WA",
+        "addr:street": "8th Street Southwest",
+        "branch": "Mountain View Auburn Inn",
+        "brand": "Best Western Plus",
+        "brand:wikidata": "Q38623383",
+        "building": "yes",
+        "name": "Best Western Plus - Peppertree",
+        "name:en": "Best Western Plus - Mountain View Auburn Inn",
+        "phone": "+1-253-887-7600",
+        "ref": "48144",
+        "tourism": "hotel",
+        "website": "https://www.bestwestern.com/en_US/book/hotels-in-auburn/best-western-plus-mountain-view-auburn-inn/propertyCode.48144.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 315256529,
+      "tags": {
+        "addr:city": "Auburn",
+        "addr:housenumber": "520",
+        "addr:postcode": "98001",
+        "addr:state": "WA",
+        "addr:street": "15th Street Southwest",
+        "amenity": "kindergarten",
+        "brand": "La Petite Academy",
+        "brand:wikidata": "Q64877784",
+        "building": "yes",
+        "fee": "yes",
+        "isced:level": "0",
+        "name": "La Petite Academy",
+        "name:en": "Bright Horizons",
+        "nursery": "yes",
+        "preschool": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 374778142,
+      "tags": {
+        "addr:city": "Seatac",
+        "addr:housenumber": "18845",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "International Boulevard",
+        "building": "yes",
+        "contact:yelp": "https://www.yelp.com/biz/sea-tac-crest-motor-inn-seattle",
+        "name": "Crest Motor Inn - Sea-Tac",
+        "name:en": "Crest Motor Inn",
+        "phone": "+1-206-433-0999;+1-800-554-0300",
+        "tourism": "motel",
+        "website": "http://www.seataccrest.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 379677499,
+      "tags": {
+        "amenity": "post_office",
+        "brand": "United States Post Office",
+        "brand:wikidata": "Q668687",
+        "building": "yes",
+        "name": "United States Post Office",
+        "name:en": "US Post Office"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380711330,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Charles Hopie Lane - ƛ̕əmƛ̕úmiq súɬ",
+        "name:clm": "ƛ̕əmƛ̕úmiq súɬ",
+        "name:en": "Charles Hopie Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386338596,
+      "tags": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "VA Magnolia",
+        "name:en": "Veterans Administration - Magnolia",
+        "note": "contact Scott Buffington",
+        "office": "government",
+        "phone": "+1-206-277-3121",
+        "website": "https://va.gov/",
+        "wheelchair": "yes",
+        "wikipedia": "en:Fort Lawton"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386694686,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Sockeye Way - scə́qiʔ súɬ",
+        "name:clm": "scə́qiʔ súɬ",
+        "name:en": "Sockeye Way"
+      }
+    },
+    {
+      "type": "way",
+      "id": 430125763,
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:wikidata": "Q3556413",
+        "building": "yes",
+        "name": "VFW Post 1045",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "short_name": "VFW",
+        "social_centre:for": "veteran"
+      }
+    },
+    {
+      "type": "way",
+      "id": 442000784,
+      "tags": {
+        "addr:city": "Seatac",
+        "addr:housenumber": "2841",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "South 188th Street",
+        "brand": "Marathon",
+        "brand:wikidata": "Q458363",
+        "building": "yes",
+        "check_date": "2025-07-06",
+        "name": "Marathon",
+        "name:en": "Food Mart",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 448891730,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "5503",
+        "addr:postcode": "98108",
+        "addr:state": "WA",
+        "addr:street": "Airport Way South",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "japanese",
+        "name": "Donburi Station",
+        "name:en": "Cutting Board Japanese Cuisine",
+        "source": "King County GIS;data.seattle.gov"
+      }
+    },
+    {
+      "type": "way",
+      "id": 461445232,
+      "tags": {
+        "addr:city": "Tukwila",
+        "addr:housenumber": "6841",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "South 180th Street",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "roman_catholic",
+        "name": "Giáo Xứ Các Thánh Tử Đạo Việt Nam",
+        "name:en": "Vietnamese Martyrs Church",
+        "name:vi": "Giáo Xứ Các Thánh Tử Đạo Việt Nam",
+        "operator": "Archdiocese of Seattle",
+        "operator:wikidata": "Q1339105",
+        "religion": "christian",
+        "short_name": "GXCTTĐVN",
+        "short_name:vi": "GXCTTĐVN",
+        "website": "https://vmpwa.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502330075,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "japanese",
+        "email": "southcenter@kuzuki.com",
+        "indoor": "room",
+        "indoor:level": "0",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Kizuki Ramen & Izakaya - Southcenter",
+        "name:en": "Kizuki Ramen and Izakaya",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa-Su 10:00-21:00",
+        "outdoor_seating": "no",
+        "phone": "+1-206-913-2360",
+        "website": "http://kuzuki.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502330120,
+      "tags": {
+        "addr:city": "Tukwila",
+        "addr:housenumber": "1374",
+        "addr:postcode": "98188",
+        "addr:state": "WA",
+        "addr:street": "Southcenter Mall",
+        "amenity": "fast_food",
+        "brand": "Jollibee",
+        "brand:wikidata": "Q37614",
+        "building:part": "yes",
+        "check_date": "2025-12-13",
+        "cuisine": "burger",
+        "indoor": "room",
+        "indoor:level": "0",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Jollibee",
+        "name:en": "Jollibee Chicken & Burgers",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 505711628,
+      "tags": {
+        "bicycle": "yes",
+        "foot": "yes",
+        "highway": "track",
+        "name": "RD 1000",
+        "name:en": "Geneva Hiker",
+        "surface": "unpaved",
+        "tracktype": "grade2"
+      }
+    },
+    {
+      "type": "way",
+      "id": 551486000,
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "15 mph",
+        "name": "Zemp Way",
+        "name:en": "Zemp Way Northeast",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 556922562,
+      "tags": {
+        "amenity": "place_of_worship",
+        "email": "office@fairwoodumc.org",
+        "name": "Fairwood Community United Methodist",
+        "name:en": "Fairwood Community United Methodist Church",
+        "opening_hours": "Mo-Th 09:00-16:00; Fr 09:00-12:00",
+        "phone": "+1-425-228-4577",
+        "religion": "christian",
+        "website": "https://fairwoodumc.org"
+      }
+    },
+    {
+      "type": "way",
+      "id": 558560642,
+      "tags": {
+        "addr:city": "Anacortes",
+        "addr:housenumber": "2908",
+        "addr:postcode": "98221",
+        "addr:state": "WA",
+        "addr:street": "Commercial Avenue",
+        "amenity": "restaurant",
+        "building": "retail",
+        "name": "Fidalgo Restaurant",
+        "name:en": "Fidalgo Drive-in",
+        "opening_hours": "Tu-Th 09:00-16:00; Fr-Mo 09:00-20:00",
+        "phone": "+1-360-293-3442",
+        "website": "https://www.fidalgodrivein.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 561632652,
+      "tags": {
+        "addr:city": "Bremerton",
+        "addr:housenumber": "2811",
+        "addr:postcode": "98310",
+        "addr:state": "WA",
+        "addr:street": "Wheaton Way",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:facebook": "100057422688867",
+        "cuisine": "coffee_shop",
+        "description": "Drive Thru Espresso",
+        "drive_through": "yes",
+        "name": "Cafe Perfetto",
+        "name:en": "Caffe Perfetto",
+        "opening_hours": "Mo-Fr 04:30-17:00; Sa 06:00-17:00; Su 07:00-16:00",
+        "phone": "+1-360-981-0082"
+      }
+    },
+    {
+      "type": "way",
+      "id": 566010519,
+      "tags": {
+        "addr:city": "Lynden",
+        "addr:housenumber": "8247",
+        "addr:postcode": "98264",
+        "addr:state": "WA",
+        "addr:street": "Guide Meridian Road",
+        "amenity": "fuel",
+        "brand": "Arco",
+        "brand:wikidata": "Q304769",
+        "building": "roof",
+        "name": "Arco",
+        "name:en": "ARCO",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+1-360-354-3410",
+        "website": "https://arco.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570544322,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2236",
+        "addr:postcode": "98106",
+        "addr:state": "WA",
+        "addr:street": "Southwest Orchard Street",
+        "building": "temple",
+        "historic": "wayside_shrine",
+        "name": "Đền Thờ Quốc Tổ Hùng Vương",
+        "name:en": "National Founder Hung Vuong Temple",
+        "name:etymology": "Hùng Vương",
+        "name:etymology:wikidata": "Q1320050",
+        "name:vi": "Đền Thờ Quốc Tổ Hùng Vương",
+        "operator": "Tran Hung Dao Foundation",
+        "operator:type": "private_non_profit"
+      }
+    },
+    {
+      "type": "way",
+      "id": 570544323,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2236",
+        "addr:postcode": "98106",
+        "addr:state": "WA",
+        "addr:street": "Southwest Orchard Street",
+        "building": "temple",
+        "historic": "wayside_shrine",
+        "name": "Đền Thờ Đức Thánh Trần",
+        "name:en": "Saint Tran Temple",
+        "name:etymology": "Trần Hưng Đạo",
+        "name:etymology:wikidata": "Q511375",
+        "name:vi": "Đền Thờ Đức Thánh Trần",
+        "operator": "Tran Hung Dao Foundation",
+        "operator:type": "private_non_profit"
+      }
+    },
+    {
+      "type": "way",
+      "id": 602186361,
+      "tags": {
+        "addr:city": "Tukwila",
+        "addr:housenumber": "12840",
+        "addr:postcode": "98168",
+        "addr:state": "WA",
+        "addr:street": "48th Avenue South",
+        "amenity": "car_rental",
+        "brand": "Penske Truck Rental",
+        "brand:wikidata": "Q81234570",
+        "building": "yes",
+        "name": "Penske Truck Rental",
+        "name:en": "Penske Truck Leasing",
+        "shop": "rental",
+        "short_name": "Penske"
+      }
+    },
+    {
+      "type": "way",
+      "id": 622586072,
+      "tags": {
+        "addr:city": "Burien",
+        "addr:country": "US",
+        "addr:housenumber": "15822",
+        "addr:postcode": "98148-1213",
+        "addr:state": "WA",
+        "addr:street": "1st Avenue South",
+        "amenity": "fast_food",
+        "brand": "Arby's",
+        "brand:wikidata": "Q630866",
+        "building": "retail",
+        "check_date": "2024-06-21",
+        "cuisine": "sandwich",
+        "drive_through": "yes",
+        "name": "Arby's",
+        "name:en": "Arby's (Burien)",
+        "opening_hours": "Su-Sa 10:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-206-246-4632",
+        "takeaway": "yes",
+        "website": "https://www.arbys.com/locations/us/wa/burien/15822-first-ave-s/store-502/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 646744622,
+      "tags": {
+        "addr:city": "Covington",
+        "addr:housenumber": "27045",
+        "addr:postcode": "98042",
+        "addr:state": "WA",
+        "addr:street": "174th Place Southeast",
+        "amenity": "veterinary",
+        "brand": "VCA Animal Hospitals",
+        "brand:wikidata": "Q7906620",
+        "building": "yes",
+        "name": "VCA Covington Animal Hospital",
+        "name:en": "VCA - Covington Animal Hospital",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "phone": "+1-253-631-8616",
+        "website": "https://www.vcahospitals.com/covington"
+      }
+    },
+    {
+      "type": "way",
+      "id": 649041586,
+      "tags": {
+        "addr:city": "Kent",
+        "addr:housenumber": "1048",
+        "addr:postcode": "98032",
+        "addr:state": "WA",
+        "addr:street": "West James Street",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Multilingual Kids Academy",
+        "name:en": "Multi-Lingual Kids Academy"
+      }
+    },
+    {
+      "type": "way",
+      "id": 651475655,
+      "tags": {
+        "addr:city": "Federal Way",
+        "addr:housenumber": "1015",
+        "addr:postcode": "98003",
+        "addr:state": "WA",
+        "addr:street": "South 348th Street",
+        "amenity": "clinic",
+        "brand": "DaVita Dialysis",
+        "brand:wikidata": "Q5207184",
+        "building": "yes",
+        "healthcare": "dialysis",
+        "healthcare:speciality": "nephrology",
+        "name": "DaVita Dialysis",
+        "name:en": "DaVita Federal Way Dialysis Center",
+        "operator": "DaVita Dialysis",
+        "operator:type": "private",
+        "operator:wikidata": "Q5207184",
+        "operator:wikipedia": "de:DaVita"
+      }
+    },
+    {
+      "type": "way",
+      "id": 653638634,
+      "tags": {
+        "addr:city": "Kent",
+        "addr:housenumber": "422",
+        "addr:postcode": "98030",
+        "addr:state": "WA",
+        "addr:street": "East Smith Street",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Meridian Dental Clinic",
+        "name:en": "Kent Dental"
+      }
+    },
+    {
+      "type": "way",
+      "id": 655458576,
+      "tags": {
+        "amenity": "driving_school",
+        "building": "yes",
+        "name": "ProFormance",
+        "name:en": "ProFormance Racing School"
+      }
+    },
+    {
+      "type": "way",
+      "id": 668947206,
+      "tags": {
+        "bridge": "yes",
+        "bridge:name": "Welcome Bridge",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Mosquito Lake Road",
+        "name:en": "Welcome Bridge",
+        "tiger:county": "Whatcom, WA"
+      }
+    },
+    {
+      "type": "way",
+      "id": 669386270,
+      "tags": {
+        "building": "yes",
+        "name": "Windbreak",
+        "name:en": "Ameristar",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "way",
+      "id": 676974146,
+      "tags": {
+        "addr:city": "Burien",
+        "addr:housenumber": "137",
+        "addr:postcode": "98146",
+        "addr:state": "WA",
+        "addr:street": "Southwest 116th Street",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "ele": "123",
+        "gnis:feature_id": "2462131",
+        "name": "Hội Thánh Tin Lành Việt Nam Seattle;Seattle Vietnamese Christian Church",
+        "name:en": "Seattle Vietnamese Christian Church",
+        "name:vi": "Hội Thánh Tin Lành Việt Nam Seattle",
+        "religion": "christian"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688522626,
+      "tags": {
+        "brand": "MAC Cosmetics",
+        "brand:wikidata": "Q2624442",
+        "check_date": "2024-10-05",
+        "indoor": "room",
+        "level": "1",
+        "name": "MAC Cosmetics",
+        "name:en": "MAC",
+        "shop": "cosmetics",
+        "short_name": "M·A·C"
+      }
+    },
+    {
+      "type": "way",
+      "id": 764113867,
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "2236",
+        "addr:postcode": "98106",
+        "addr:state": "WA",
+        "addr:street": "Southwest Orchard Street",
+        "leisure": "park",
+        "name": "Tổ Đình Việt Nam;Vietnamese Cultural Center",
+        "name:en": "Vietnamese Cultural Center",
+        "name:vi": "Tổ Đình Việt Nam",
+        "operator": "Tran Hung Dao Foundation",
+        "operator:type": "private_non_profit",
+        "website": "https://todinhvietnam.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 830532189,
+      "tags": {
+        "addr:housenumber": "3051",
+        "addr:street": "Ocean Beach Highway",
+        "brand": "Valvoline",
+        "brand:wikidata": "Q7912852",
+        "building": "industrial",
+        "check_date": "2024-08-21",
+        "name": "Valvoline",
+        "name:en": "Valvoline Instant Oil Change",
+        "official_name": "Valvoline Instant Oil Change",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "service:vehicle:oil_change": "yes",
+        "shop": "car_repair",
+        "toilets:wheelchair": "yes",
+        "website": "https://store.vioc.com/wa/longview/oil-change-090117.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 926422992,
+      "tags": {
+        "addr:city": "Burlington",
+        "addr:housenumber": "6397",
+        "addr:postcode": "98233",
+        "addr:state": "WA",
+        "addr:street": "North Green Road",
+        "alt_name": "KOA Campground",
+        "brand": "KOA",
+        "brand:wikidata": "Q16988635",
+        "caravans": "yes",
+        "email": "burlingtonkoa@outlook.com",
+        "internet_access": "wlan",
+        "name": "Burlington / Anacortes KOA",
+        "name:en": "KOA",
+        "phone": "+1-360-724-5511",
+        "power_supply": "yes",
+        "sanitary_dump_station": "yes",
+        "short_name": "KOA",
+        "shower": "yes",
+        "tents": "yes",
+        "toilets": "yes",
+        "tourism": "caravan_site",
+        "website": "https://koa.com/campgrounds/burlington/map/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 927002700,
+      "tags": {
+        "dog": "yes",
+        "leisure": "dog_park",
+        "name": "Sedro-Woolley Off Leash Dog Park",
+        "name:en": "Bark Park",
+        "operator": "City of Sedro Woolley",
+        "operator:type": "government"
+      }
+    },
+    {
+      "type": "way",
+      "id": 944961444,
+      "tags": {
+        "amenity": "social_centre",
+        "brand": "Veterans of Foreign Wars of the United States",
+        "brand:wikidata": "Q3556413",
+        "building": "yes",
+        "flag:type": "organisation",
+        "name": "Veterans of Foreign Wars Post 3057",
+        "name:en": "VFW Post",
+        "official_name": "Veterans of Foreign Wars of the United States",
+        "short_name": "VFW",
+        "social_centre:for": "veteran"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1025931845,
+      "tags": {
+        "addr:city": "South Hill",
+        "addr:housenumber": "12117",
+        "addr:postcode": "98373",
+        "addr:state": "WA",
+        "addr:street": "Meridian East",
+        "brand": "Cash America International",
+        "brand:wikidata": "Q5048636",
+        "building": "yes",
+        "name": "Cash America Pawn",
+        "name:en": "Cash America",
+        "shop": "pawnbroker"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1033998282,
+      "tags": {
+        "addr:housenumber": "628",
+        "addr:postcode": "98404",
+        "addr:state": "WA",
+        "addr:street": "East 60th Street",
+        "building": "yes",
+        "contact:facebook": "earthwisesalvage",
+        "contact:instagram": "earthwisesalvage",
+        "email": "tacoma@ewsalvage.com",
+        "name": "Earthwise",
+        "name:en": "Earthwise Architectural Salvage",
+        "opening_hours": "Mo-Su 09:30-17:30",
+        "phone": "+1-253-476-7837",
+        "shop": "trade",
+        "source": "esri/Tacoma_WA_Buildings",
+        "trade": "building_supplies",
+        "website": "https://ewsalvage.com/contact/earthwise-tacoma/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1152991371,
+      "tags": {
+        "addr:city": "Ritzville",
+        "addr:housenumber": "201",
+        "addr:postcode": "99169",
+        "addr:state": "WA",
+        "addr:street": "West Main Avenue",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "Umpqua Bank",
+        "brand:wikidata": "Q7881772",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "Umpqua Bank",
+        "name:en": "Columbia Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1185766484,
+      "tags": {
+        "addr:city": "Graham",
+        "addr:housenumber": "14912",
+        "addr:postcode": "98338",
+        "addr:state": "WA",
+        "addr:street": "Kapowsin Highway East",
+        "amenity": "restaurant",
+        "building": "yes",
+        "check_date": "2025-03-30",
+        "cuisine": "pizza",
+        "name": "Kapowsin Ale House & Grill",
+        "name:en": "Kapowsin Pizza & Ale House",
+        "phone": "+1-360-879-5333"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1206238606,
+      "tags": {
+        "addr:city": "Redmond",
+        "addr:housenumber": "15975",
+        "addr:postcode": "98052",
+        "addr:street": "Northeast One Microsoft Way",
+        "building": "yes",
+        "name": "Microsoft Building 1",
+        "name:en": "Experience Center One"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1227527544,
+      "tags": {
+        "addr:city": "Wenatchee",
+        "addr:housenumber": "25",
+        "addr:postcode": "98801",
+        "addr:state": "WA",
+        "addr:street": "North Wenatchee Avenue",
+        "building": "yes",
+        "name": "Arlberg",
+        "name:en": "Arlberg Sports",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+1-509-663-7401",
+        "shop": "sports",
+        "source": "esri_USDOT_RiverCom911_WA",
+        "website": "https://www.arlbergsports.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1282383395,
+      "tags": {
+        "addr:city": "Montesano",
+        "addr:housenumber": "213",
+        "addr:postcode": "98563",
+        "addr:state": "WA",
+        "addr:street": "Pioneer Avenue West",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "name": "Wynoochee",
+        "name:en": "Wynoochee Coffee Co.",
+        "opening_hours": "Mo-Fr 05:00-18:00; Sa-Su 06:00-18:00",
+        "outdoor_seating": "no",
+        "phone": "+1-360-249-2244",
+        "source": "microsoft/BuildingFootprints",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1290129063,
+      "tags": {
+        "alt_name:en": "Hanwoori Korean Garden",
+        "leisure": "park",
+        "name": "Hanwoori Garden 한우리정원",
+        "name:en": "Hanwoori Garden",
+        "name:ko": "한우리정원",
+        "source": "https://www.seattlen.com/hot/39627;https://www.federalwaymirror.com/life/federal-way-korean-american-association-celebrates-15-years/",
+        "start_date": "2025-06-10"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1357927753,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "maxspeed": "15 mph",
+        "name": "Spokwes Drive - sxʷp̕úqʷs súɬ",
+        "name:clm": "sxʷp̕úqʷs súɬ",
+        "name:en": "Spokwes Drive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1364903891,
+      "tags": {
+        "addr:city": "South Hill",
+        "addr:housenumber": "15014",
+        "addr:postcode": "98375",
+        "addr:state": "WA",
+        "addr:street": "Meridian East",
+        "building": "yes",
+        "check_date": "2024-05-05",
+        "name": "The Butcher Boys Beef Outlet",
+        "name:en": "Butcher Boy's Meat Market",
+        "phone": "+1-253-840-1099",
+        "shop": "butcher",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://thebutcherboys.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1381044752,
+      "tags": {
+        "addr:city": "Puyallup",
+        "addr:housenumber": "5515",
+        "addr:postcode": "98371",
+        "addr:state": "WA",
+        "addr:street": "Pioneer Way East",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "The Chalet",
+        "name:en": "The Chalet Bar And Grill",
+        "phone": "+1-253-845-3860",
+        "source": "microsoft/BuildingFootprints",
+        "website": "https://chaletbarandgrill.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1434290777,
+      "tags": {
+        "amenity": "shelter",
+        "building": "roof",
+        "image": "https://www.instagram.com/fedwaywa/p/DC98moms0tj/",
+        "name": "Donghaejeong 동해정",
+        "name:en": "Donghaejeong",
+        "name:etymology:wikidata": "Q42093",
+        "name:ko": "동해정",
+        "name:ko-Hani": "東海亭",
+        "source": "https://www.seattlen.com/hot/43684;https://www.instagram.com/fedwaywa/p/DC98moms0tj/"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5986781,
+      "tags": {
+        "name": "Parohiile Ortodoxe Române din Statele Unite",
+        "name:en": "Romanian Orthodox Parishes in the United States",
+        "name:ro": "Parohiile Ortodoxe Române din Statele Unite",
+        "type": "collection",
+        "website": "http://www.romarch.org/ro/parohii.php?country=US"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 5986836,
+      "tags": {
+        "denomination": "romanian_orthodox",
+        "name": "Parohiile Ortodoxe Române din Statele Unite - ROEA",
+        "name:en": "Romanian Orthodox Parishes in the United States - ROEA",
+        "name:ro": "Parohiile Ortodoxe Române din Statele Unite - ROEA",
+        "religion": "christian",
+        "type": "collection",
+        "website": "https://www.roea.org/parishes.html"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8625211,
+      "tags": {
+        "access": "permit",
+        "fee": "yes",
+        "landuse": "forest",
+        "name": "Snoqualmie Tree Farm",
+        "name:en": "Snoqualmie Forest",
+        "name:ru": "лес Сноквалми",
+        "operator": "Campbell Global",
+        "ownership": "private",
+        "type": "multipolygon",
+        "website": "https://sqrecreation.com/"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 18100778,
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "gnis:feature_id": "2612178",
+        "name": "Quil Ceda Village / qʷəl'sidəʔ ʔalʔaltəd",
+        "name:en": "Quil Ceda Village",
+        "name:lut": "qʷəl'sidəʔ ʔalʔaltəd",
+        "place": "village",
+        "postal_code": "98271",
+        "type": "boundary",
+        "website": "https://www.quilcedavillage.org/",
+        "wikidata": "Q7271959",
+        "wikipedia": "en:Quil Ceda Village"
+      }
+    }
+  ]
+}

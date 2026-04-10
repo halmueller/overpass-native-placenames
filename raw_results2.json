@@ -1,0 +1,2926 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-10T04:43:10Z",
+    "timestamp_areas_base": "2026-04-09T19:42:47Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 48723103,
+      "tags": {
+        "capital": "6",
+        "gnis:feature_id": "2412146",
+        "name": "Vancouver",
+        "name:ar": "فانكوفر",
+        "name:bg": "Ванкувър",
+        "name:chn": "skichutxwa",
+        "name:de": "Vancouver",
+        "name:en": "Vancouver",
+        "name:es": "Vancouver",
+        "name:fa": "ونکوور",
+        "name:fr": "Vancouver",
+        "name:it": "Vancouver",
+        "name:ja": "バンクーバー",
+        "name:ko": "밴쿠버",
+        "name:pt": "Vancouver",
+        "name:ru": "Ванкувер",
+        "name:sr": "Ванкувер",
+        "name:ta": "வான்கூவர்",
+        "name:uk": "Ванкувер",
+        "name:vi": "Vancouver",
+        "name:zh": "溫哥華",
+        "name:zh-Hans": "温哥华",
+        "name:zh-Hant-CN": "溫哥華",
+        "place": "city",
+        "population": "190915",
+        "population:date": "2020",
+        "source:population": "US Census",
+        "website": "https://www.cityofvancouver.us/",
+        "wikidata": "Q234053",
+        "wikipedia": "en:Vancouver, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 48925897,
+      "tags": {
+        "capital": "6",
+        "highway": "traffic_signals",
+        "name": "Spokane",
+        "name:ar": "سبوكين",
+        "name:be": "Спакан",
+        "name:bg": "Спокан",
+        "name:de": "Spokane",
+        "name:en": "Spokane",
+        "name:es": "Spokane",
+        "name:fa": "اسپوکن",
+        "name:fr": "Spokane",
+        "name:it": "Spokane",
+        "name:ja": "スポケーン",
+        "name:ko": "스포캔",
+        "name:nez": "tikemtuustim",
+        "name:pt": "Spokane",
+        "name:ru": "Спокан",
+        "name:sr": "Спокејн",
+        "name:uk": "Спокен",
+        "name:vi": "Spokane",
+        "name:zh": "斯波坎",
+        "old_name": "Spokan Falls",
+        "place": "city",
+        "population": "228989",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "traffic_signals": "signal",
+        "website": "https://my.spokanecity.org/",
+        "wikidata": "Q187805",
+        "wikipedia": "en:Spokane, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150936508,
+      "tags": {
+        "capital": "6",
+        "ele": "17",
+        "name": "Port Angeles",
+        "name:ar": "بورت أنجلوس",
+        "name:bg": "Порт Анджелис",
+        "name:ca": "Port Angeles",
+        "name:clm": "č̕ixʷícən",
+        "name:cs": "Port Angeles",
+        "name:de": "Port Angeles",
+        "name:es": "Port Angeles",
+        "name:fa": "پورت آنجلس",
+        "name:fi": "Port Angeles",
+        "name:fr": "Port Angeles",
+        "name:hr": "Port Angeles",
+        "name:it": "Port Angeles",
+        "name:ja": "ポートエンジェルス",
+        "name:ko": "포트앤젤레스",
+        "name:mg": "Port Angeles",
+        "name:nl": "Port Angeles",
+        "name:pt": "Port Angeles",
+        "name:vi": "Port Angeles",
+        "name:vo": "Port Angeles",
+        "name:war": "Port Angeles",
+        "name:zh": "安吉利斯港",
+        "place": "town",
+        "population": "19960",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "wikidata": "Q852584",
+        "wikipedia": "en:Port Angeles, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150939637,
+      "tags": {
+        "ele": "13",
+        "gnis:feature_id": "1511209",
+        "name": "Ozette",
+        "name:myh": "ʔuse·ʔiɫ",
+        "place": "hamlet",
+        "wikidata": "Q1808559",
+        "wikipedia": "en:Ozette, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150945797,
+      "tags": {
+        "alt_name": "Waatch",
+        "ele": "6",
+        "gnis:feature_id": "1512886",
+        "name": "Wa'atch",
+        "name:myh": "waʔač̓",
+        "place": "village",
+        "wikidata": "Q110008332"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150952019,
+      "tags": {
+        "capital": "6",
+        "ele": "601",
+        "gnis:feature_id": "1533329",
+        "name": "Colfax",
+        "name:en": "Colfax",
+        "name:nez": "ti’natpa’ama",
+        "place": "town",
+        "population": "2782",
+        "railway": "service_station",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "wikidata": "Q1509984",
+        "wikipedia": "en:Colfax, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150953880,
+      "tags": {
+        "ele": "6",
+        "gnis:feature_id": "1524729",
+        "name": "Pysht",
+        "name:clm": "pə́šct",
+        "place": "hamlet",
+        "wikidata": "Q7263814",
+        "wikipedia": "en:Pysht, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150956546,
+      "tags": {
+        "capital": "6",
+        "ele": "244",
+        "gnis:feature_id": "1503074",
+        "name": "Asotin",
+        "name:en": "Asotin",
+        "name:nez": "hesuutin’",
+        "place": "village",
+        "population": "1125",
+        "population:date": "2006",
+        "source:population": "US Census",
+        "wikidata": "Q168884",
+        "wikipedia": "en:Asotin, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150959903,
+      "tags": {
+        "ele": "246",
+        "gnis:feature_id": "1512093",
+        "name": "Clarkston",
+        "name:en": "Clarkston",
+        "name:nez": "simiinikem neqeey",
+        "place": "town",
+        "population": "7161",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "wikidata": "Q980878",
+        "wikipedia": "en:Clarkston, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150968245,
+      "tags": {
+        "ele": "284",
+        "gnis:feature_id": "1511378",
+        "name": "Tucannon",
+        "name:nez": "tukeeywewiy",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150972576,
+      "tags": {
+        "ele": "56",
+        "gnis:feature_id": "1531505",
+        "name": "Sequim",
+        "name:clm": "sxʷčkʷíyəŋ",
+        "place": "town",
+        "population": "8024",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "wikidata": "Q1514115",
+        "wikipedia": "en:Sequim, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 150974010,
+      "tags": {
+        "ele": "1085",
+        "gnis:feature_id": "1503022",
+        "name": "Anatone",
+        "name:en": "Anatone",
+        "name:nez": "’enetoyn",
+        "place": "hamlet",
+        "population": "10",
+        "population:date": "2024",
+        "population:source": "US Census",
+        "wikidata": "Q4752314",
+        "wikipedia": "en:Anatone, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 268503104,
+      "tags": {
+        "alt_name": "Kulshan;Grant Peak",
+        "ele": "3287",
+        "ele:accuracy": "3286.049",
+        "ele:ft": "10781",
+        "name": "Mount Baker",
+        "name:hur": "χe:t̕ᶿenəxʷ",
+        "name:ja": "ベイカー山",
+        "name:nok": "Kweq’ Smánit",
+        "name:sal": "Kwelshán",
+        "name:str": "Kwelshán",
+        "natural": "volcano",
+        "note": "Grant Peak is the name of the highest point around the crater, located at this spot.",
+        "old_name": "Kulshan",
+        "prominence": "2687",
+        "source": "ele:accuracy and ele:ft from USGS TOPO Map",
+        "source:prominence": "3287-600 (Col between Klesilkwa River and Silverhope Creek)",
+        "wikidata": "Q594387",
+        "wikipedia": "en:Mount Baker"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356544063,
+      "tags": {
+        "ele": "3743.4",
+        "gnis:feature_id": "1515726",
+        "name": "Mount Adams",
+        "name:en": "Mount Adams",
+        "name:ja": "アダムス山",
+        "name:kli": "Pahto",
+        "name:yak": "Pahto",
+        "natural": "volcano",
+        "prominence": "2477",
+        "source": "USGS",
+        "source:prominence": "3743-1266 (Carlton Pass)",
+        "wikidata": "Q267646",
+        "wikipedia": "en:Mount Adams (Washington)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356546327,
+      "tags": {
+        "ele": "2549",
+        "gnis:feature_id": "1525360",
+        "name": "Mount Saint Helens",
+        "name:cow": "Lawetlat'la",
+        "name:en": "Mount Saint Helens",
+        "name:ja": "セントヘレンズ山",
+        "name:kli": "Louwala-Clough",
+        "name:yak": "Loowit",
+        "natural": "volcano",
+        "prominence": "1409",
+        "source:prominence": "2549-1140 (Col at Ryan Lake Road)",
+        "volcano:status": "active",
+        "volcano:type": "stratovolcano",
+        "wikidata": "Q4675",
+        "wikipedia": "en:Mount St. Helens"
+      }
+    },
+    {
+      "type": "node",
+      "id": 356546426,
+      "tags": {
+        "alt_name": "q̓əlbc̓",
+        "ele": "1254",
+        "gnis:feature_id": "1525731",
+        "name": "Mount Si / q̓əlbc̓",
+        "name:en": "Mount Si",
+        "name:lut": "q̓əlbc̓",
+        "natural": "peak",
+        "source": "USGS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 407704884,
+      "tags": {
+        "amenity": "place_of_worship",
+        "drinking_water": "no",
+        "name": "Licton Springs",
+        "name:lut": "líq’tәd",
+        "natural": "spring",
+        "place_of_worship": "holy_well"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1744903493,
+      "tags": {
+        "ele": "4392",
+        "gnis:feature_id": "1533614",
+        "name": "Mount Rainier",
+        "name:en": "Mount Rainier",
+        "name:es": "Monte Rainier",
+        "name:fr": "Mont Rainier",
+        "name:it": "Monte Rainier",
+        "name:ja": "レーニア山",
+        "name:lt": "Reinyro kalnas",
+        "name:lut": "Tahoma",
+        "name:pt": "Monte Rainier",
+        "natural": "volcano",
+        "note": "This node represents the volcano and mountain massif. The individual summits are mapped separately as natural=peak.",
+        "note:old_name:1": "Was renamed temporarily by the Washington State Legislature for Super Bowl XLVIII in 2014",
+        "old_name": "Talol;Tacoma;Tahoma",
+        "old_name:1": "Mount Seattle Seahawks",
+        "prominence": "4037",
+        "source:location": "USGS",
+        "source:prominence": "4392-355 (near Armstrong, BC)",
+        "start_date": "about 500,000 BC",
+        "volcano:status": "active",
+        "volcano:type": "stratovolcano",
+        "wikidata": "Q194057",
+        "wikipedia": "en:Mount Rainier"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2038044428,
+      "tags": {
+        "name": "Neah Bay",
+        "name:myh": "di·ya",
+        "place": "town",
+        "population": "935",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "wikidata": "Q1514842",
+        "wikimedia_commons": "Category:Neah Bay, Washington",
+        "wikipedia": "en:Neah Bay, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2297382108,
+      "tags": {
+        "gnis:feature_id": "2772091",
+        "name": "Point Hudson",
+        "name:clm": "qám̓qəm̓",
+        "natural": "cape",
+        "source": "USGS",
+        "wikidata": "Q137944670"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4664641159,
+      "tags": {
+        "gnis:feature_id": "1509596",
+        "name": "Wing Point",
+        "name:en": "Wing Point",
+        "name:lut": "ləx̌ilqs",
+        "natural": "cape",
+        "source": "USGS",
+        "wikidata": "Q137685096"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5517364927,
+      "tags": {
+        "name": "Cherry Point",
+        "name:en": "Cherry Point",
+        "name:str": "Xwe’chieXen",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7053411921,
+      "tags": {
+        "capital": "6",
+        "name": "Walla Walla",
+        "name:ar": "والا والا",
+        "name:chn": "walawala",
+        "name:de": "Walla Walla",
+        "name:en": "Walla Walla",
+        "name:es": "Walla Walla",
+        "name:fa": "والا والا",
+        "name:fr": "Walla Walla",
+        "name:it": "Walla Walla",
+        "name:ja": "ワラワラ",
+        "name:ko": "왈라왈라",
+        "name:nez": "páasx̂a",
+        "name:pt": "Walla Walla",
+        "name:zh": "瓦拉瓦拉",
+        "place": "city",
+        "population": "34060",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "website": "http://www.wallawalla.org/",
+        "wikidata": "Q222338",
+        "wikipedia": "en:Walla Walla, Washington"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12208543808,
+      "tags": {
+        "name": "Quil Ceda Village / qʷəl'sidəʔ ʔalʔaltəd",
+        "name:en": "Quil Ceda Village",
+        "name:lut": "qʷəl'sidəʔ ʔalʔaltəd",
+        "place": "village",
+        "wikidata": "Q7271959",
+        "wikipedia": "en:Quil Ceda Village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12253116878,
+      "tags": {
+        "name": "Wawawai",
+        "name:nez": "wawaawawiy",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13088388940,
+      "tags": {
+        "name": "dəxʷqʷuludəb",
+        "name:lut": "dəxʷqʷuludəb",
+        "place": "locality",
+        "source": "\"Puget Sound Geography\", T.T. Waterman",
+        "website": "https://www.google.com/maps/d/u/0/viewer?mid=1PZVCx1mV1PD8on-ePf5aopjbdOmWhi4"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13146172761,
+      "tags": {
+        "artist_name": "Tyson Simmons;Keith Stevenson;Al Charles",
+        "artwork_type": "totem_pole",
+        "name": "skʷatač dxʷʔal x̌ʷəlč",
+        "name:lut": "skʷatač dxʷʔal x̌ʷəlč",
+        "start_date": "2025-09",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13305573738,
+      "tags": {
+        "board_type": "welcome_sign",
+        "information": "board",
+        "name": "Snoqualmie Tribe / sdukʷalbixʷ",
+        "name:en": "Snoqualmie Tribe",
+        "name:lut": "sdukʷalbixʷ",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13315997119,
+      "tags": {
+        "name": "Sooes",
+        "name:myh": "c̓u·yas",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5854560,
+      "tags": {
+        "cycleway:both": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "West Front Street",
+        "name:clm": "shéʔu súɬ",
+        "oneway": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Front",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5855265,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Hupt Road - húʔpt súɬ",
+        "name:clm": "húʔpt súɬ",
+        "old_name": "Hupt Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Hupt",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5857112,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "John Mike Road - stáwəxn súɬ",
+        "name:clm": "stáwəxn súɬ",
+        "name:en": "John Mike Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "John Mike",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5857603,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Snowcaps Lane - ŋaqaʔéʔqʷ súɬ",
+        "name:clm": "ŋaqaʔéʔqʷ súɬ",
+        "name:en": "Snowcaps Lane",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Snowcaps",
+        "tiger:name_type": "Ln",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5857611,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Ns'Klallam Drive - nəχʷsƛ̕ay̕əm̕ súɬ",
+        "name:clm": "nəχʷsƛ̕ay̕əm̕ súɬ",
+        "name:en": "Ns'Klallam Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Ns Klallam",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5858327,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Kweynesen Road - k̕ʷə́yŋsən súɬ",
+        "name:clm": "k̕ʷə́yŋsən súɬ",
+        "name:en": "Kweynesen Road",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Kweynesen",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5858333,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Sea Wind Drive - ƛ̕ɬáɬc sčúŋ súɬ",
+        "name:clm": "ƛ̕ɬáɬc sčúŋ súɬ",
+        "name:en": "Sea Wind Drive",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Sea Wind",
+        "tiger:name_type": "Dr",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5858340,
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "West Railroad Avenue - lilút súɬ",
+        "name:clm": "lilút súɬ",
+        "name:en": "West Railroad Avenue",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Railroad",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Ave",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5859570,
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "name": "North Oak Street",
+        "name:clm": "čáʔŋəɬč súɬ",
+        "name:en": "North Oak Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Oak",
+        "tiger:name_direction_prefix": "N",
+        "tiger:name_type": "St",
+        "tiger:reviewed": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5862266,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Mimwheeten Way - mímxʷtən súɬ",
+        "name:clm": "mímxʷtən súɬ",
+        "name:en": "Mimwheeten Way",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Clallam, WA",
+        "tiger:name_base": "Mimwheeten",
+        "tiger:name_type": "Way",
+        "tiger:reviewed": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5913576,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "40 mph",
+        "name": "Northeast Little Boston Road",
+        "name:clm": "nəxʷq̕íyt súɬ",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Little Boston",
+        "tiger:name_direction_prefix": "NE",
+        "tiger:name_type": "Rd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 5917014,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Little Boston Road Northeast",
+        "name:clm": "nəxʷq̕íyt súɬ",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Little Boston",
+        "tiger:name_direction_suffix": "NE",
+        "tiger:name_type": "Rd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 12218149,
+      "tags": {
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "East Morton Street",
+        "name:lut": "stidigʷəd",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 12218154,
+      "tags": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "East Morton Street",
+        "name:lut": "stidigʷəd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 12218158,
+      "tags": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "East Morton Street",
+        "name:lut": "stidigʷəd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 23349398,
+      "tags": {
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 26219835,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "ship": "yes",
+        "source": "county_import_v0.1_20080508235444",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30922391,
+      "tags": {
+        "bicycle": "designated",
+        "cycleway": "shared_lane",
+        "highway": "unclassified",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Court Northeast",
+        "parking:lane:left": "on_street",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "snowplowing": "no",
+        "surface": "asphalt",
+        "winter_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32863355,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37324516,
+      "tags": {
+        "alt_name": "Sooes River",
+        "attribution": "US-NFS",
+        "fixme": "resurvey",
+        "gnis:feature_id": "1526111",
+        "name": "Tsoo-Yess River",
+        "name:myh": "c̓u·yas",
+        "source": "http://www.fs.fed.us/r6/data-library/gis/olympic/hydronet_meta.htm",
+        "waterway": "river",
+        "wikidata": "Q7562642",
+        "wikimedia_commons": "File:Sooes River mouth.jpg",
+        "wikipedia": "en:Tsoo-Yess River"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37786032,
+      "tags": {
+        "name": "Stillaguamish River",
+        "name:lut": "Sto-Lit-Qua-Mish River",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 75210655,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "attribution": "USGS 2001 County Boundary",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "ship": "yes",
+        "source": "county_import_v0.1_20080508235444",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89641293,
+      "tags": {
+        "addr:housenumber": "7235",
+        "addr:street": "Suquamish Way Northeast",
+        "alt_name": "House of Awakened Culture",
+        "building": "yes",
+        "name": "Suquamish Community House",
+        "name:lut": "sgwәdzadad qәł ɂaltxʷ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 104521751,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 115424809,
+      "tags": {
+        "gnis:feature_id": "1506707",
+        "name": "Miller Lake",
+        "name:en": "Miller Lake",
+        "name:lut": "qʷəlul̕t",
+        "natural": "water",
+        "water": "lake",
+        "wikidata": "Q108870742"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116897000,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "Little Boston Road Northeast",
+        "name:clm": "nəxʷq̕íyt súɬ",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Little Boston",
+        "tiger:name_direction_suffix": "NE",
+        "tiger:name_type": "Rd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 116897005,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Northeast Little Boston Road",
+        "name:clm": "nəxʷq̕íyt súɬ",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Little Boston",
+        "tiger:name_direction_prefix": "NE",
+        "tiger:name_type": "Rd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 163640960,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "oneway:canoe": "no",
+        "order:strahler": "9",
+        "rapids": "no",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 163917829,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "oneway:canoe": "no",
+        "order:strahler": "9",
+        "rapids": "no",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 163917830,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 163917831,
+      "tags": {
+        "boat": "yes",
+        "deep_draft": "no",
+        "lock": "yes",
+        "lock_name": "McNary Lock",
+        "maxlength": "208.18",
+        "maxwidth": "26.21",
+        "name": "Columbia River",
+        "name:nez": "xuyelp",
+        "ref": "24",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal",
+        "width": "26.21"
+      }
+    },
+    {
+      "type": "way",
+      "id": 164030681,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "oneway:canoe": "no",
+        "order:strahler": "9",
+        "rapids": "no",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 174974976,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Northeast Little Boston Road",
+        "name:clm": "nəxʷq̕íyt súɬ",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Little Boston",
+        "tiger:name_direction_prefix": "NE",
+        "tiger:name_type": "Rd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 227382986,
+      "tags": {
+        "name": "Deschutes River",
+        "name:lut": "slah chess River",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782622,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "yes",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "15 mph",
+        "name": "Spokwes Drive - sxʷp̕úqʷs súɬ",
+        "name:clm": "sxʷp̕úqʷs súɬ",
+        "name:en": "Spokwes Drive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782623,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Ashas Court - ʔəšás súɬ",
+        "name:clm": "ʔəšás súɬ",
+        "name:en": "Ashas Court"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782625,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Pew Lane - píxʷ súɬ",
+        "name:clm": "píxʷ súɬ",
+        "name:en": "Pew Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782627,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Killer Whale Lane - q̕ɬúməčən súɬ",
+        "name:clm": "q̕ɬúməčən súɬ",
+        "name:en": "Killer Whale Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 270782628,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Lilu Lane - ʔəlíluʔ súɬ",
+        "name:clm": "ʔəlíluʔ súɬ",
+        "name:en": "Lilu Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 286831893,
+      "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "40 mph",
+        "name": "Northeast Little Boston Road",
+        "name:clm": "nəxʷq̕íyt súɬ",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Kitsap, WA",
+        "tiger:name_base": "Little Boston",
+        "tiger:name_direction_prefix": "NE",
+        "tiger:name_type": "Rd"
+      }
+    },
+    {
+      "type": "way",
+      "id": 289965799,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291475944,
+      "tags": {
+        "highway": "residential",
+        "name": "Cubby Sparks Place Northeast",
+        "name:clm": "ɬáwəstən swʷʔiyá",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 291475946,
+      "tags": {
+        "highway": "residential",
+        "name": "Kloomachin Place Northeast",
+        "name:clm": "q̕ɬúməčən swʷʔiyá"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584276,
+      "tags": {
+        "destination:lanes": "||none;East 25th Street",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "||through;right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584277,
+      "tags": {
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "postal_code": "98404",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584280,
+      "tags": {
+        "destination": "Puyallup Avenue;East Bay Street",
+        "highway": "primary",
+        "junction": "jughandle",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584282,
+      "tags": {
+        "change:lanes": "not_left|not_right|no",
+        "destination:lanes": "||Eells Street",
+        "foot": "designated",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584283,
+      "tags": {
+        "destination:lanes": "||Eells Street",
+        "foot": "designated",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584291,
+      "tags": {
+        "change:lanes": "not_left|not_right|no",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 349584304,
+      "tags": {
+        "highway": "primary",
+        "lanes": "6",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380711330,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Charles Hopie Lane - ƛ̕əmƛ̕úmiq súɬ",
+        "name:clm": "ƛ̕əmƛ̕úmiq súɬ",
+        "name:en": "Charles Hopie Lane"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784224,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784225,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784232,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784233,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784234,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784235,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784238,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784239,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784240,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784241,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784243,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 385784257,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "intermittent": "yes",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386694686,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "name": "Sockeye Way - scə́qiʔ súɬ",
+        "name:clm": "scə́qiʔ súɬ",
+        "name:en": "Sockeye Way"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389154585,
+      "tags": {
+        "leisure": "park",
+        "name": "Pebble Beach Park",
+        "name:clm": "sŋaʔŋáʔant cáwŋən ʔəssaqɬúŋt",
+        "name:en": "Pebble Beach Park"
+      }
+    },
+    {
+      "type": "way",
+      "id": 461272319,
+      "tags": {
+        "addr:city": "Kenmore",
+        "addr:housenumber": "7353",
+        "addr:postcode": "98028",
+        "addr:state": "WA",
+        "addr:street": "Northeast 175th Street",
+        "alt_name": "Tl' awh-ah-dees Park",
+        "leisure": "park",
+        "name": "ƛ̕ax̌ʷadis Park",
+        "name:lut": "ƛ̕ax̌ʷadis",
+        "old_name": "Squire's Landing Park",
+        "operator": "City of Kenmore Public Works",
+        "operator:type": "public",
+        "website": "https://www.kenmorewa.gov/Home/Components/FacilityDirectory/FacilityDirectory/12/103"
+      }
+    },
+    {
+      "type": "way",
+      "id": 609107883,
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "horse": "private",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Lane Northeast",
+        "oneway": "no",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610048795,
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "horse": "private",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Lane Northeast",
+        "oneway": "no",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 610048797,
+      "tags": {
+        "access": "no",
+        "covered": "no",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "lit": "yes",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Lane Northeast",
+        "oneway": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613486186,
+      "tags": {
+        "destination": "Puyallup Avenue;East Bay Street",
+        "highway": "primary",
+        "junction": "jughandle",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613495558,
+      "tags": {
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "3",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:both": "no",
+        "source": "Bing",
+        "surface": "concrete",
+        "turn:lanes": "||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613495560,
+      "tags": {
+        "bridge": "yes",
+        "change:lanes": "not_left|not_right",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613495561,
+      "tags": {
+        "change:lanes": "not_left|not_right",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613495562,
+      "tags": {
+        "change:lanes": "not_left||",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "left||"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613495563,
+      "tags": {
+        "change:lanes": "not_left|not_right",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613495564,
+      "tags": {
+        "change:lanes": "not_left|not_right",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613904181,
+      "tags": {
+        "destination:lanes": "||Eells Street",
+        "foot": "designated",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 613904192,
+      "tags": {
+        "destination:lanes": "||East 25th Street",
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 623957719,
+      "tags": {
+        "highway": "primary",
+        "lanes": "7",
+        "lanes:backward": "3",
+        "lanes:forward": "4",
+        "maxheight": "default",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "sidewalk:both": "separate",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|left|through",
+        "turn:lanes:forward": "left|left|through|through"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687454657,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 687472065,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 816119948,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 905085019,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "note": "This is the river centerline. Separate from the ship channel, which is mapped as a series of named fairways.",
+        "order:strahler": "9",
+        "tidal": "yes",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1053828602,
+      "tags": {
+        "alt_name": "City Hall Plaza",
+        "leisure": "park",
+        "name": "Tribal Gathering Place",
+        "name:spo": "snt'el'ʔemin'tn",
+        "website": "https://my.spokanecity.org/riverfrontspokane/book-a-venue/rentable-spaces/tribal-gathering-place/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1062501958,
+      "tags": {
+        "bridge": "yes",
+        "change:lanes": "no|not_left|not_right|no",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "4",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:both": "no",
+        "source": "Bing",
+        "surface": "concrete",
+        "turn:lanes": "left|||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1062501959,
+      "tags": {
+        "bridge": "yes",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:both": "no",
+        "source": "Bing",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1062800077,
+      "tags": {
+        "change:lanes": "not_left|||not_right",
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "4",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "oneway": "yes",
+        "sidewalk:both": "no",
+        "source": "Bing",
+        "surface": "asphalt",
+        "turn:lanes": "left|||right"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1106230014,
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "horse": "private",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Lane Northeast",
+        "oneway": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1184088391,
+      "tags": {
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203833885,
+      "tags": {
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal",
+        "wikidata": "Q2251",
+        "wikipedia": "en:Columbia River"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203833886,
+      "tags": {
+        "boat": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal",
+        "wikidata": "Q2251",
+        "wikipedia": "en:Columbia River"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1203859581,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "deep_draft": "yes",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1214454674,
+      "tags": {
+        "highway": "primary",
+        "lanes": "6",
+        "lit": "yes",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "sidewalk:both": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1323643580,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1323643581,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339998476,
+      "tags": {
+        "bicycle": "yes",
+        "covered": "no",
+        "emergency": "yes",
+        "highway": "pedestrian",
+        "horse": "private",
+        "lit": "yes",
+        "motor_vehicle": "private",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Lane Northeast",
+        "oneway": "no",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1339998477,
+      "tags": {
+        "access": "no",
+        "cycleway": "shared_lane",
+        "highway": "unclassified",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Little Canoe Channel Northeast",
+        "name:en": "Little Canoe Channel Northeast",
+        "name:lut": "sluʔwiɫ",
+        "name:sal": "sluʔwiɫ",
+        "old_name": "Whitman Court Northeast",
+        "parking:lane:left": "on_street",
+        "sidewalk:left": "separate",
+        "sidewalk:right": "no",
+        "snowplowing": "no",
+        "surface": "asphalt",
+        "winter_service": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1357927753,
+      "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
+        "maxspeed": "15 mph",
+        "name": "Spokwes Drive - sxʷp̕úqʷs súɬ",
+        "name:clm": "sxʷp̕úqʷs súɬ",
+        "name:en": "Spokwes Drive"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1358272750,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "tidal": "yes",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1358896984,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "note": "This is the river centerline. Separate from the ship channel, which is mapped as a series of named fairways.",
+        "order:strahler": "9",
+        "tidal": "yes",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1359066459,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1360322066,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1360322067,
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "turn:lanes:forward": "left||"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1360497911,
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "turn:lanes:backward": "left|none|none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361074199,
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "turn:lanes:forward": "left|none|none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361372980,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361372981,
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "turn:lanes:backward": "left|none|none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361373771,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1361373772,
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "turn:lanes:forward": "left|none|none"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1385244716,
+      "tags": {
+        "highway": "primary",
+        "lanes": "5",
+        "lanes:backward": "2",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ",
+        "turn:lanes:forward": "left||"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394004104,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394004133,
+      "tags": {
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394004134,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394004141,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1394004142,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395752748,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "canoe": "yes",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784834,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784835,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784836,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784837,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784838,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784839,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "layer": "-1",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "tunnel": "culvert",
+        "waterway": "stream"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784842,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "intermittent": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "oneway:canoe": "no",
+        "rapids": "no",
+        "tidal": "no",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784843,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1395784844,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "boat": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "9",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1420770931,
+      "tags": {
+        "highway": "primary",
+        "maxspeed": "35 mph",
+        "name": "East Portland Avenue",
+        "name:lut": "dukʷibəɫ"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1425635930,
+      "tags": {
+        "boat": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal",
+        "wikidata": "Q2251",
+        "wikipedia": "en:Columbia River"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1425635935,
+      "tags": {
+        "boat": "yes",
+        "canoe": "yes",
+        "deep_draft": "no",
+        "name": "Columbia River",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "ship": "yes",
+        "source:deep_draft": "National Transportation Atlas Database 2011",
+        "waterway": "canal",
+        "wikidata": "Q2251",
+        "wikipedia": "en:Columbia River"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1454566501,
+      "tags": {
+        "addr:city": "Bellingham",
+        "addr:housenumber": "2522",
+        "addr:postcode": "98226",
+        "addr:state": "WA",
+        "addr:street": "Kwina Road",
+        "amenity": "college",
+        "branch": "Main",
+        "education": "college",
+        "ele": "10",
+        "gnis:feature_id": "1515164",
+        "name": "Northwest Indian College",
+        "name:str": "XWLEMI ELH>TAL>NEXW SQUL",
+        "operator": "Northwest Indian College",
+        "phone": "+1-360-676-2772",
+        "short_name": "NWIC Main",
+        "website": "https://www.nwic.edu/",
+        "wikidata": "Q12041073"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1482766713,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1482766715,
+      "tags": {
+        "alt_name:es": "Gran Río",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "order:strahler": "8",
+        "source": "USGS",
+        "waterway": "river"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 237385,
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "2411856",
+        "name": "Seattle",
+        "name:el": "Σιάτλ",
+        "name:ko": "시애틀",
+        "name:lut": "dᶻidᶻəlal̕ič",
+        "name:oc": "Seattle",
+        "name:zh-Hans": "西雅图",
+        "name:zh-Hant": "西雅圖",
+        "nickname": "The Emerald City",
+        "place": "city",
+        "population": "737015",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "type": "boundary",
+        "wikidata": "Q5083",
+        "wikipedia": "en:Seattle"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 237444,
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "2409469",
+        "name": "Clarkston",
+        "name:nez": "simiinikem neqeey",
+        "place": "town",
+        "population": "7161",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "type": "boundary",
+        "wikidata": "Q980878",
+        "wikipedia": "en:Clarkston, Washington"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 237599,
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "2411956",
+        "name": "Spokane",
+        "name:he": "ספוקיין",
+        "name:kut": "Spuqin",
+        "name:nez": "tikemtuustim",
+        "name:ru": "Спокан",
+        "name:uk": "Спокен",
+        "place": "city",
+        "population": "228989",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "type": "boundary",
+        "wikidata": "Q187805",
+        "wikipedia": "en:Spokane, Washington"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 237737,
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "2410191",
+        "name": "Colfax",
+        "name:en": "Colfax",
+        "name:nez": "ti’natpa’ama",
+        "place": "village",
+        "population": "2782",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "type": "boundary",
+        "wikidata": "Q1509984",
+        "wikipedia": "en:Colfax, Washington"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 238066,
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "2409742",
+        "name": "Asotin",
+        "name:en": "Asotin",
+        "name:nez": "hesuutin’",
+        "place": "village",
+        "population": "1125",
+        "population:date": "2006",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "source:population": "US Census",
+        "type": "boundary",
+        "wikidata": "Q168884",
+        "wikipedia": "en:Asotin, Washington"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 238102,
+      "tags": {
+        "admin_level": "8",
+        "border_type": "city",
+        "boundary": "administrative",
+        "gnis:feature_id": "2412168",
+        "name": "Walla Walla",
+        "name:nez": "páasx̂a",
+        "place": "city",
+        "population": "34060",
+        "source": "TIGER/Line® 2008 Place Shapefiles (http://www.census.gov/geo/www/tiger/)",
+        "source:population": "US Census",
+        "source:population:date": "2020",
+        "type": "boundary",
+        "wikidata": "Q222338",
+        "wikipedia": "en:Walla Walla, Washington"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1240950,
+      "tags": {
+        "leisure": "park",
+        "name": "Herring's House Park",
+        "name:en": "Herring's House Park",
+        "name:lut": "Tul' altxʷ",
+        "type": "multipolygon",
+        "website": "https://www.portseattle.org/community/resources/parks/"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 1240970,
+      "tags": {
+        "gnis:feature_id": "1504604",
+        "name": "Duwamish River",
+        "name:lut": "Dxʷ'dəw",
+        "natural": "water",
+        "type": "multipolygon",
+        "water": "river",
+        "wikidata": "Q751663",
+        "wikipedia": "en:Duwamish River"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2183775,
+      "tags": {
+        "destination": "Pacific Ocean",
+        "destination:lang:es": "Océano Pacífico",
+        "gnis:feature_id": "1140014",
+        "name": "Columbia River",
+        "name:azb": "کولمبیا چایی",
+        "name:es": "Río Columbia",
+        "name:nez": "xuyelp",
+        "name:ur": "کولمبیا دریا",
+        "source": "NRCan-CanVec-10.0;BC Freshwater Atlas",
+        "type": "waterway",
+        "waterway": "river",
+        "wikidata": "Q2251",
+        "wikipedia": "en:Columbia River"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 2793848,
+      "tags": {
+        "gnis:feature_id": "1531534",
+        "intermittent": "no",
+        "name": "Lake Washington",
+        "name:chn": "Hyas Chuck",
+        "name:en": "Lake Washington",
+        "name:lut": "Xacuabš",
+        "name:ru": "озеро Вашингтон",
+        "natural": "water",
+        "salt": "no",
+        "tidal": "no",
+        "type": "multipolygon",
+        "water": "lake",
+        "wikidata": "Q1323525",
+        "wikipedia": "en:Lake Washington"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7320420,
+      "tags": {
+        "boundary": "aboriginal_lands",
+        "name": "Yakama Indian Reservation",
+        "name:en": "Yakama Indian Reservation",
+        "name:ko": "야카마 원주민 보호구역",
+        "name:nez": "lex̂éyuu",
+        "place": "region",
+        "type": "boundary",
+        "website": "http://www.yakamanation.net/",
+        "wikidata": "Q3457242",
+        "wikipedia": "en:Yakama Indian Reservation"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7594862,
+      "tags": {
+        "addr:city": "Vancouver",
+        "addr:housenumber": "612",
+        "addr:postcode": "98661",
+        "addr:state": "WA",
+        "addr:street": "East Reserve Street",
+        "boundary": "protected_area",
+        "heritage": "2",
+        "heritage:operator": "nrhp",
+        "historic": "site",
+        "leisure": "park",
+        "name": "Fort Vancouver National Historic Site",
+        "name:chn": "skichutxwa",
+        "name:en": "Fort Vancouver National Historic Site",
+        "nrhp:criteria": "A",
+        "nrhp:inscription_date": "1966-10-15",
+        "operator": "National Park Service",
+        "operator:short": "NPS",
+        "operator:type": "public",
+        "operator:wikidata": "Q308439",
+        "operator:wikipedia": "en:National Park Service",
+        "ownership": "national",
+        "phone": "+1-360-816-6230",
+        "protect_class": "22",
+        "protected": "perpetuity",
+        "protected_area": "historic_site",
+        "protection_title": "National Historic Site",
+        "ref:nhp": "66000370",
+        "type": "multipolygon",
+        "website": "https://www.nps.gov/fova/",
+        "wikidata": "Q5472217",
+        "wikipedia": "en:Fort Vancouver National Historic Site"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7953510,
+      "tags": {
+        "boundary": "aboriginal_lands",
+        "name": "Colville Indian Reservation",
+        "name:oka": "sx̌ʷy̓ʔiłpx sqlxʷúlaʔxʷ",
+        "operator": "Confederated Tribes of the Colville Reservation",
+        "type": "boundary",
+        "website": "https://www.colvilletribes.com/",
+        "wikidata": "Q951756",
+        "wikipedia": "en:Colville Indian Reservation"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 10721697,
+      "tags": {
+        "destination": "Strait of Juan de Fuca",
+        "name": "Elwha River",
+        "name:clm": "ʔéʔɬx̣ʷaʔ",
+        "type": "waterway",
+        "waterway": "river",
+        "wikidata": "Q1334367",
+        "wikipedia": "en:Elwha River"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 16407815,
+      "tags": {
+        "area": "yes",
+        "barrier": "city_wall",
+        "ele": "20",
+        "gnis:feature_id": "1504974",
+        "historic": "fort",
+        "name": "Fort Vancouver",
+        "name:chn": "skichutxwa",
+        "name:en": "Fort Vancouver",
+        "note": "Reconstruction",
+        "type": "multipolygon",
+        "wikidata": "Q1438804",
+        "wikipedia": "en:Fort Vancouver"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 18100778,
+      "tags": {
+        "admin_level": "8",
+        "boundary": "administrative",
+        "gnis:feature_id": "2612178",
+        "name": "Quil Ceda Village / qʷəl'sidəʔ ʔalʔaltəd",
+        "name:en": "Quil Ceda Village",
+        "name:lut": "qʷəl'sidəʔ ʔalʔaltəd",
+        "place": "village",
+        "postal_code": "98271",
+        "type": "boundary",
+        "website": "https://www.quilcedavillage.org/",
+        "wikidata": "Q7271959",
+        "wikipedia": "en:Quil Ceda Village"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 18244332,
+      "tags": {
+        "boundary": "aboriginal_lands",
+        "name": "zis a ba",
+        "name:lut": "zis a ba",
+        "type": "boundary"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 19557240,
+      "tags": {
+        "gnis:feature_id": "1507245",
+        "name": "Ozette River",
+        "name:myh": "ʔuse·ʔiɫ",
+        "source": "USGS",
+        "type": "waterway",
+        "waterway": "river",
+        "wikidata": "Q3359216",
+        "wikipedia": "en:Ozette River"
+      }
+    }
+  ]
+}
